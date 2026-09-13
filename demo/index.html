@@ -125,7 +125,7 @@ let topics = [];
 
 async function loadTopics() {
     try {
-        const response = await fetch("/api/topics");
+        const dataUrl = window.location.hostname.includes("github.io") ? "../data/final_topic_index.json" : "/api/topics"; const response = await fetch(dataUrl);
 
         if (!response.ok) {
             throw new Error("Could not load Topic Index.");
@@ -215,4 +215,5 @@ loadTopics();
 
 </body>
 </html>
+
 
