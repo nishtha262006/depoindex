@@ -1,0 +1,182 @@
+{
+  "total_boundaries": 25,
+  "same_topic": 23,
+  "new_topic": 2,
+  "results": [
+    {
+      "boundary_number": 1,
+      "previous_topic": "Introduction and Setting the Tone for the Deposition",
+      "current_topic": "Introduction to the Student Borrower Protection Center",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the deposition process and the importance of clear communication, with no clear transition to a new subject."
+    },
+    {
+      "boundary_number": 2,
+      "previous_topic": "Introduction to the Student Borrower Protection Center",
+      "current_topic": "Advocacy for Student Loan Borrowers",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the work of the Student Borrower Protection Center, specifically their efforts to improve the student loan market and advocate for borrowers, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 3,
+      "previous_topic": "Advocacy for Student Loan Borrowers",
+      "current_topic": "Expert Testimony on Student Loan Servicing",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on student loan servicers and the expert's involvement in commenting on their proposals, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 4,
+      "previous_topic": "Expert Testimony on Student Loan Servicing",
+      "current_topic": "Changes in Student Loan Servicing",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on changes in student loan servicing, specifically the recent departures of Navient, PHEAA/FedLoan Servicing, and Mohela, and the resulting transfers to new servicers like Maximus and Aidvantage."
+    },
+    {
+      "boundary_number": 5,
+      "previous_topic": "Changes in Student Loan Servicing",
+      "current_topic": "State Laws and Regulations",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to be about student loan servicing, specifically the transfer of data between servicers, and the introduction of state laws and regulations as a related aspect of this topic."
+    },
+    {
+      "boundary_number": 6,
+      "previous_topic": "State Laws and Regulations",
+      "current_topic": "For-profit colleges and their impact on students",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to be about the report and its contents, specifically the transition from paragraph numbers to a non-sequential format, which is still related to the report's structure and organization."
+    },
+    {
+      "boundary_number": 7,
+      "previous_topic": "For-profit colleges and their impact on students",
+      "current_topic": "Economic Outcomes of ITT Students",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the economic outcomes of ITT students, which is a continuation of the previous topic"
+    },
+    {
+      "boundary_number": 8,
+      "previous_topic": "Economic Outcomes of ITT Students",
+      "current_topic": "ITT Education's Misrepresentation of Education Benefits",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to explore the economic outcomes of ITT students, specifically focusing on the potential for increased earnings after graduation."
+    },
+    {
+      "boundary_number": 9,
+      "previous_topic": "ITT Education's Misrepresentation of Education Benefits",
+      "current_topic": "Misrepresentations in ITT's financing and accreditation practices",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on ITT Education's misrepresentations, specifically in the context of financing and accreditation practices, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 10,
+      "previous_topic": "Misrepresentations in ITT's financing and accreditation practices",
+      "current_topic": "Outlier Identification in ITT Student Salaries",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on ITT's student salaries and the concept of outliers, which is a related topic to the previous discussion on misrepresentations in ITT's financing and accreditation practices."
+    },
+    {
+      "boundary_number": 11,
+      "previous_topic": "Outlier Identification in ITT Student Salaries",
+      "current_topic": "Vervent defendants' role in PEAKS loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the PEAKS loans and the involvement of Vervent defendants, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 12,
+      "previous_topic": "Vervent defendants' role in PEAKS loans",
+      "current_topic": "Legal Analysis of PEAKS Loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the legality and enforceability of PEAKS loans, specifically inquiring about court or governmental agency orders to stop collections."
+    },
+    {
+      "boundary_number": 13,
+      "previous_topic": "Legal Analysis of PEAKS Loans",
+      "current_topic": "Misstatements in loan documentation",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to analyze the enforceability of the PEAKS loans, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 14,
+      "previous_topic": "Misstatements in loan documentation",
+      "current_topic": "Witness's testimony on Vervent's knowledge of loan interest rates",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to be about loan documentation, specifically the transfer of documents, which is a related topic to the previous segment."
+    },
+    {
+      "boundary_number": 15,
+      "previous_topic": "Witness's testimony on Vervent's knowledge of loan interest rates",
+      "current_topic": "Disclosure Requirements for Student Loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on Vervent's knowledge of loan documents and disclosures, which is a continuation of the previous topic."
+    },
+    {
+      "boundary_number": 16,
+      "previous_topic": "Disclosure Requirements for Student Loans",
+      "current_topic": "Enforceability of Student Loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the enforceability of student loans, with the examiner and the witness discussing the conditions under which a loan would be considered enforceable despite lack of disclosures."
+    },
+    {
+      "boundary_number": 17,
+      "previous_topic": "Enforceability of Student Loans",
+      "current_topic": "ITT Educational Services Settlement and Government Loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the enforceability of student loans, specifically the ITT Educational Services settlement and its implications on government loans."
+    },
+    {
+      "boundary_number": 18,
+      "previous_topic": "ITT Educational Services Settlement and Government Loans",
+      "current_topic": "ITT Student Loan Practices",
+      "decision": "NEW_TOPIC",
+      "reason": "Discussion transitions to a different substantive subject, from ITT Educational Services Settlement and Government Loans to ITT Student Loan Practices"
+    },
+    {
+      "boundary_number": 19,
+      "previous_topic": "ITT Student Loan Practices",
+      "current_topic": "SEC Investigation of Vervent Defendants",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the ITT Student Loan Practices, specifically the CFPB's investigation and findings, and then transitions to the SEC Investigation of Vervent Defendants, but the context is still related to the same substantive subject."
+    },
+    {
+      "boundary_number": 20,
+      "previous_topic": "SEC Investigation of Vervent Defendants",
+      "current_topic": "Consumer Financial Protection Bureau's lawsuit against ITT",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the Vervent defendants' conduct, specifically the payments made on behalf of borrowers, which is related to the SEC investigation mentioned in the previous segment."
+    },
+    {
+      "boundary_number": 21,
+      "previous_topic": "Consumer Financial Protection Bureau's lawsuit against ITT",
+      "current_topic": "Investigations and Findings by the U.S. Department of Education",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the investigations and findings related to ITT, with the witness clarifying their understanding of the investigations and the lack of findings against Vervent."
+    },
+    {
+      "boundary_number": 22,
+      "previous_topic": "Investigations and Findings by the U.S. Department of Education",
+      "current_topic": "Investigations into ITT and PEAKS program",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to investigate investigations, specifically into ITT and the PEAKS program, which is a continuation of the previous topic"
+    },
+    {
+      "boundary_number": 23,
+      "previous_topic": "Investigations into ITT and PEAKS program",
+      "current_topic": "Servicer Regulation and Enforcement",
+      "decision": "NEW_TOPIC",
+      "reason": "The discussion transitions to a different substantive subject from the previous segment on Investigations into ITT and PEAKS program to Servicer Regulation and Enforcement."
+    },
+    {
+      "boundary_number": 24,
+      "previous_topic": "Servicer Regulation and Enforcement",
+      "current_topic": "Expert Witness Testimony on PEAKS Loans",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the same substantive subject of servicer regulation and enforcement, as the witness is answering questions about the status of PEAKS Loans prior to the fall of 2020."
+    },
+    {
+      "boundary_number": 25,
+      "previous_topic": "Expert Witness Testimony on PEAKS Loans",
+      "current_topic": "PEAKS loans program",
+      "decision": "SAME_TOPIC",
+      "reason": "The discussion continues to focus on the PEAKS loans program, with the witness reviewing various investigations and discussing the servicing of the loans."
+    }
+  ]
+}

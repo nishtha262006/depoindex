@@ -1,0 +1,235 @@
+{
+  "review_metadata": {
+    "reviewer": "Manual review",
+    "total_entries_reviewed": 20,
+    "criteria": [
+      "location_accuracy",
+      "topic_relevance",
+      "boundary_quality",
+      "coverage",
+      "redundancy"
+    ]
+  },
+  "entries": [
+    {
+      "topic_number": 1,
+      "topic": "Introduction and Setting the Tone for the Deposition",
+      "location": "Page 7, Line 11 - Page 10, Line 15",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers deposition instructions and introductory procedure; boundary is appropriate before continued deposition instructions."
+    },
+    {
+      "topic_number": 2,
+      "topic": "Introduction to the Student Borrower Protection Center",
+      "location": "Page 10, Line 16 - Page 13, Line 21",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers the witness's introduction to the Student Borrower Protection Center and its work; boundary follows the introductory organization discussion."
+    },
+    {
+      "topic_number": 3,
+      "topic": "Advocacy for Student Loan Borrowers",
+      "location": "Page 13, Line 22 - Page 17, Line 1",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers advocacy, research, policy work, and student-loan servicing policy activity; transition occurs before the next servicing-focused discussion."
+    },
+    {
+      "topic_number": 4,
+      "topic": "Expert Testimony on Student Loan Servicing",
+      "location": "Page 17, Line 2 - Page 20, Line 6",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers the witness's expertise and participation concerning student-loan servicing; boundary leads into concrete servicing changes."
+    },
+    {
+      "topic_number": 5,
+      "topic": "Changes in Student Loan Servicing",
+      "location": "Page 20, Line 7 - Page 23, Line 11",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers changes and transfers among federal student-loan servicers; boundary is appropriate before the question about regulations governing data transfer."
+    },
+    {
+      "topic_number": 6,
+      "topic": "State Laws and Regulations",
+      "location": "Page 23, Line 12 - Page 26, Line 16",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers state laws and requirements governing transfer of student-loan servicing data; transition from servicing changes is appropriate."
+    },
+    {
+      "topic_number": 7,
+      "topic": "For-profit colleges and their impact on students",
+      "location": "Page 26, Line 17 - Page 29, Line 21",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Topic is relevant to the subsequent for-profit-college discussion, but the segment starts during a discussion of report paragraph numbering, producing a weak start boundary."
+    },
+    {
+      "topic_number": 8,
+      "topic": "Economic Outcomes of ITT Students",
+      "location": "Page 29, Line 22 - Page 33, Line 1",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers economic outcomes of ITT students and naturally follows the discussion of ITT and for-profit colleges."
+    },
+    {
+      "topic_number": 9,
+      "topic": "ITT Education's Misrepresentation of Education Benefits",
+      "location": "Page 33, Line 2 - Page 36, Line 6",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Covers the transition from ITT student outcomes to representations and potential misrepresentation; the topic remains substantively coherent."
+    },
+    {
+      "topic_number": 10,
+      "topic": "Misrepresentations in ITT's financing and accreditation practices",
+      "location": "Page 36, Line 7 - Page 39, Line 11",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The topic is related to Topic 9 but focuses more specifically on financing and accreditation practices, so it is not considered redundant. The main issue remains the weak boundary."
+    },
+    {
+      "topic_number": 11,
+      "topic": "Outlier Identification in ITT Student Salaries",
+      "location": "Page 39, Line 12 - Page 42, Line 16",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The topic is relevant to the ITT student outcomes discussion, but the segment ends during the transition into the Vervent/PEAKS discussion."
+    },
+    {
+      "topic_number": 12,
+      "topic": "Vervent defendants' role in PEAKS loans",
+      "location": "Page 42, Line 17 - Page 45, Line 21",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Begins with the direct discussion of Vervent defendants' involvement in the PEAKS loans and remains substantively coherent."
+    },
+    {
+      "topic_number": 13,
+      "topic": "Legal Analysis of PEAKS Loans",
+      "location": "Page 45, Line 22 - Page 49, Line 1",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "Relevant to the legal analysis of PEAKS loans, but the start includes a reporter interruption and the segment ends while the witness is responding to an enforceability question."
+    },
+    {
+      "topic_number": 14,
+      "topic": "Misstatements in loan documentation",
+      "location": "Page 49, Line 2 - Page 52, Line 6",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The topic concerns testimony about potential misstatements, but the segment starts after an attorney objection and ends during a reporter interruption rather than a substantive transition."
+    },
+    {
+      "topic_number": 15,
+      "topic": "Witness's testimony on Vervent's knowledge of loan interest rates",
+      "location": "Page 52, Line 7 - Page 55, Line 11",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The topic is related to Vervent's knowledge and access to loan information, but the segment begins during a reporter interruption, making the start boundary weak."
+    },
+    {
+      "topic_number": 16,
+      "topic": "Disclosure Requirements for Student Loans",
+      "location": "Page 55, Line 12 - Page 58, Line 16",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The disclosure-requirements topic is relevant, but the segment begins in the middle of the preceding answer rather than at the substantive disclosure question."
+    },
+    {
+      "topic_number": 17,
+      "topic": "Enforceability of Student Loans",
+      "location": "Page 58, Line 17 - Page 61, Line 21",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The enforceability topic is relevant, but the segment begins in the middle of the preceding disclosure-related answer."
+    },
+    {
+      "topic_number": 18,
+      "topic": "ITT Educational Services Settlement and Government Loans",
+      "location": "Page 61, Line 22 - Page 65, Line 1",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "PASS",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The segment transitions into discussion of the CFPB settlement and remains substantively coherent around the settlement and government-loan discussion."
+    },
+    {
+      "topic_number": 19,
+      "topic": "ITT Student Loan Practices",
+      "location": "Page 65, Line 2 - Page 68, Line 6",
+      "location_accuracy": "PASS",
+      "topic_relevance": "PASS",
+      "boundary_quality": "FAIL",
+      "coverage": "PASS",
+      "redundancy": "PASS",
+      "notes": "The ITT-related topic is relevant, but the segment begins in the middle of a continuing hypothetical/question sequence."
+    },
+    {
+      "topic_number": 20,
+      "topic": "SEC Investigation of Vervent Defendants",
+      "location": "Page 68, Line 7 - Page 71, Line 11",
+      "location_accuracy": "PASS",
+      "topic_relevance": "FAIL",
+      "boundary_quality": "FAIL",
+      "coverage": "FAIL",
+      "redundancy": "PASS",
+      "notes": "The segment begins with CFPB findings and only later reaches the SEC investigation, so the SEC-only topic label does not accurately represent the full segment."
+    }
+  ]
+}

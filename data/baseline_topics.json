@@ -1,0 +1,262 @@
+[
+  {
+    "chunk_number": 1,
+    "start_page": 7,
+    "start_line": 11,
+    "end_page": 10,
+    "end_line": 15,
+    "topic": "Introduction and understanding of the deposition process",
+    "summary": "The witness, Ms. Yu, is introduced by Mr. Purcell and explains her role as an expert witness, and Mr. Purcell discusses the deposition process and expectations.",
+    "evidence": "I represent the defendants, and we will hopefully get you out of here fairly soon."
+  },
+  {
+    "chunk_number": 2,
+    "start_page": 10,
+    "start_line": 16,
+    "end_page": 13,
+    "end_line": 21,
+    "topic": "Introduction to the Student Borrower Protection Center and its work",
+    "summary": "The witness discusses the Student Borrower Protection Center, its organization, and its goals in addressing student lending and debt issues.",
+    "evidence": "The Student Borrower Protection Center is a National 501(c)(3) organization. We work on issues related to student lending and student borrowing, with the goal of alleviating the burden of student debt from our national economy."
+  },
+  {
+    "chunk_number": 3,
+    "start_page": 13,
+    "start_line": 22,
+    "end_page": 17,
+    "end_line": 1,
+    "topic": "Advocacy for Student Loan Borrowers",
+    "summary": "The witness discusses the initiatives and regulations they have worked on to improve fairness for student loan borrowers, including income-driven repayment and loan forgiveness, as well as interactions with regulators, policymakers, and lenders.",
+    "evidence": "We do research, and then present those findings both publicly and then to policymakers."
+  },
+  {
+    "chunk_number": 4,
+    "start_page": 17,
+    "start_line": 2,
+    "end_page": 20,
+    "end_line": 6,
+    "topic": "Expert Testimony on Student Loan Servicing",
+    "summary": "The witness shares experience and insights on student loan servicing, including their work with the National Consumer Law Center and their testimony before Congress.",
+    "evidence": "I started working in this field in 2009 as a legal aid attorney representing student loan borrowers."
+  },
+  {
+    "chunk_number": 5,
+    "start_page": 20,
+    "start_line": 7,
+    "end_page": 23,
+    "end_line": 11,
+    "topic": "Changes in Student Loan Servicing",
+    "summary": "The witness discusses the process of transferring student loan servicing from one company to another, including the risks and challenges involved.",
+    "evidence": "The risks are that data loss. There can be risks of lost payments. There can be risks -- risk of lost communications between customer service representatives. There can be the risk of lost files, that sort of thing. I mean, basically, data is lost is -- is the main risk."
+  },
+  {
+    "chunk_number": 6,
+    "start_page": 23,
+    "start_line": 12,
+    "end_page": 26,
+    "end_line": 16,
+    "topic": "Regulations related to data transfer in student loan servicing",
+    "summary": "The witness discusses state laws and regulations regarding data transfer in student loan servicing, specifically referencing the California State Student Loan Servicing Law.",
+    "evidence": "California State Student Loan Servicing Law I believe has requirements about the data that must be transferred from one servicer to another in -- in a -- when a transfer occurs."
+  },
+  {
+    "chunk_number": 7,
+    "start_page": 26,
+    "start_line": 17,
+    "end_page": 29,
+    "end_line": 21,
+    "topic": "For-profit colleges and their effects on students",
+    "summary": "The witness discusses the benefits and burdens of an ITT education and states that many students receive less benefit from their education than they would have taken on debt for.",
+    "evidence": "few students or -- very few students receive the benefits that are promised to them by ITT which is what led them to take on the debt in the first place."
+  },
+  {
+    "chunk_number": 8,
+    "start_page": 29,
+    "start_line": 22,
+    "end_page": 33,
+    "end_line": 1,
+    "topic": "The quality and value of degrees from ITT Technical Institute",
+    "summary": "The witness discusses the outcomes of ITT students, including retention rates and default rates, and how these metrics indicate the value of the education.",
+    "evidence": "That would be an outlier experience.  If a -- if a student were to graduate and -- and -- I'm sorry, I don't remember the details of your hypothetical."
+  },
+  {
+    "chunk_number": 9,
+    "start_page": 33,
+    "start_line": 2,
+    "end_page": 36,
+    "end_line": 6,
+    "topic": "the accuracy of ITT Technical Institute's representations about its education and job placement rates",
+    "summary": "The witness discusses the potential for misrepresentations by ITT about its education and job placement rates, and emphasizes the importance of looking at big-picture data such as graduation rates and default rates",
+    "evidence": "And so I think those are the more important pieces of data to look at when we're analyzing the quality of the institution and the practices; more importantly, the practices of the institution."
+  },
+  {
+    "chunk_number": 10,
+    "start_page": 36,
+    "start_line": 7,
+    "end_page": 39,
+    "end_line": 11,
+    "topic": "Misrepresentations of ITT Technical Institute's Education Quality",
+    "summary": "The witness discusses various sources, including the Senate HELP Committee Report and the Consumer Financial Protection Bureau's investigation, that cite misrepresentations of ITT Technical Institute's education quality, particularly with regard to financing and accreditation.",
+    "evidence": "So we see this both in the Senate HELP Committee Report, for example.  They discuss misrepresentations within ITT's practices."
+  },
+  {
+    "chunk_number": 11,
+    "start_page": 39,
+    "start_line": 12,
+    "end_page": 42,
+    "end_line": 16,
+    "topic": "Outliers in ITT Student Salaries",
+    "summary": "A witness discusses the lack of information about ITT student salaries before and after attending the institution, making it difficult to determine outliers.",
+    "evidence": "Because if somebody was not working or worked very part-time and made twice as much money, they may have -- that -- that may or may not be -- right -- but like it's a spectrum, and what you're asking me is to place -- I mean, the starting point -- without knowing the starting point, I can't give an opinion about the ending point and how typical that is, given the size of the portfolio."
+  },
+  {
+    "chunk_number": 12,
+    "start_page": 42,
+    "start_line": 17,
+    "end_page": 45,
+    "end_line": 21,
+    "topic": "Vervent defendants' role in the origination and servicing of PEAKS loans",
+    "summary": "The witness discusses the Vervent defendants' involvement in the origination and servicing of PEAKS loans, and denies that they were involved in recruiting students to ITT.",
+    "evidence": "the -- the Vervent defendants took the portfolio after most of those loans were originated."
+  },
+  {
+    "chunk_number": 13,
+    "start_page": 45,
+    "start_line": 22,
+    "end_page": 49,
+    "end_line": 1,
+    "topic": "Analysis of PEAKS loan documents and their enforceability",
+    "summary": "The witness discusses the existence and potential defects in the PEAKS loan documents, but does not currently have an opinion on whether the loans became unenforceable at some time.",
+    "evidence": "So you're telling me you do not currently have an opinion about whether or not the PEAKS loans became unenforceable at some time; is that correct?"
+  },
+  {
+    "chunk_number": 14,
+    "start_page": 49,
+    "start_line": 2,
+    "end_page": 52,
+    "end_line": 6,
+    "topic": "Misstatements in Testimony",
+    "summary": "The witness discusses instances where their testimony was misquoted by the opposing counsel, and the importance of accurate documentation in loan enforcement.",
+    "evidence": "Misstates testimony."
+  },
+  {
+    "chunk_number": 15,
+    "start_page": 52,
+    "start_line": 7,
+    "end_page": 55,
+    "end_line": 11,
+    "topic": "Scope of Review for Vervent Servicing",
+    "summary": "The witness clarifies that their report only covered documents Vervent would have had access to, not the interest rates on the loans themselves.",
+    "evidence": "However, you know, for proof that a loan exists, that Vervent does not have access to those documents."
+  },
+  {
+    "chunk_number": 16,
+    "start_page": 55,
+    "start_line": 12,
+    "end_page": 58,
+    "end_line": 16,
+    "topic": "Disclosure requirements for PEAKS borrowers",
+    "summary": "The witness discusses the implications of not providing final disclosures to PEAKS borrowers, including potential loan cancellation and obligations",
+    "evidence": "I don't have access to the information that borrowers were provided at the time. What I have -- the information that I have is that in the records those -- those further disclosures do not exist and were not provided to the defendants."
+  },
+  {
+    "chunk_number": 17,
+    "start_page": 58,
+    "start_line": 17,
+    "end_page": 61,
+    "end_line": 21,
+    "topic": "Enforceability of Student Loans",
+    "summary": "The witness discusses the circumstances under which a student loan can be rendered unenforceable, including failure to provide disclosures and other events that can impact enforceability.",
+    "evidence": "Yes, they would have to right to cancel that loan if they never received the disclosure."
+  },
+  {
+    "chunk_number": 18,
+    "start_page": 61,
+    "start_line": 22,
+    "end_page": 65,
+    "end_line": 1,
+    "topic": "The CFPB settlement and its implications for ITT's business practices",
+    "summary": "The witness discusses the CFPB settlement and its impact on ITT's business practices, including the provision of loans to ITT students despite concerns about the school's quality.",
+    "evidence": "I think most of us who work in the industry understand that unfortunately it is not, that there are over 4,000 schools that receive loans under the Title IV Program."
+  },
+  {
+    "chunk_number": 19,
+    "start_page": 65,
+    "start_line": 2,
+    "end_page": 68,
+    "end_line": 6,
+    "topic": "ITT's Practices and Government Response",
+    "summary": "The witness discusses the widespread abusive practices of ITT and how the federal government responded to these practices, including the closure of ITT and the cancellation of federal loans.",
+    "evidence": "And, in fact, a lot of the practices that were talked about in the whistleblower suit in the -- in the DOJ and the later -- and -- and the early investigations are -- are the same in -- are the same practices that were eventually the practices that led to the closure of ITT and the -- the findings by the Department of Education, which led to the cancelation of all remaining federal loans on the program."
+  },
+  {
+    "chunk_number": 20,
+    "start_page": 68,
+    "start_line": 7,
+    "end_page": 71,
+    "end_line": 11,
+    "topic": "SEC investigation findings on Vervent defendants",
+    "summary": "The witness is uncertain about any specific findings by the SEC regarding the Vervent defendants' conduct, but acknowledges that the SEC raised issues with payments on behalf of borrowers, which may be indirectly related to the defendants.",
+    "evidence": "And since I don't have the complaint in front of me, I don't -- I can't say for sure."
+  },
+  {
+    "chunk_number": 21,
+    "start_page": 71,
+    "start_line": 12,
+    "end_page": 74,
+    "end_line": 16,
+    "topic": "Consumer Financial Protection Bureau's actions against ITT",
+    "summary": "The witness discusses the CFPB's 2014 lawsuit against ITT over high-pressure tactics and predatory loans, including the PEAKS loans.",
+    "evidence": "In February 2014, the Consumer Financial Protection Bureau sued ITT over high-pressure tactics and predatory loans including the PEAKS loans at issue here."
+  },
+  {
+    "chunk_number": 22,
+    "start_page": 74,
+    "start_line": 17,
+    "end_page": 77,
+    "end_line": 21,
+    "topic": "Investigation process and definition of investigation",
+    "summary": "The witness discusses the Department of Education's investigation process and their understanding of what constitutes an investigation.",
+    "evidence": "I don't know what those dates would have -- what findings they may have made internally and not release publicly."
+  },
+  {
+    "chunk_number": 23,
+    "start_page": 77,
+    "start_line": 22,
+    "end_page": 81,
+    "end_line": 1,
+    "topic": "Investigations of ITT and the PEAKS program",
+    "summary": "The witness discusses various investigations into ITT and the PEAKS program and clarifies that their personal role in these investigations was limited.",
+    "evidence": "I did not have a personal role in any of those investigations."
+  },
+  {
+    "chunk_number": 24,
+    "start_page": 81,
+    "start_line": 2,
+    "end_page": 84,
+    "end_line": 6,
+    "topic": "Servicer Responsibilities and Loan Enforcement",
+    "summary": "The witness discusses the role of servicers in student loan servicing and the laws governing loan enforcement, including the PEAKS loan settlement.",
+    "evidence": "There are certainly laws that talk about the communications, whether or not it's (unintelligible) --"
+  },
+  {
+    "chunk_number": 25,
+    "start_page": 84,
+    "start_line": 7,
+    "end_page": 87,
+    "end_line": 11,
+    "topic": "Determination of Unenforceability of PEAKS Loans",
+    "summary": "The witness discusses the lack of public determination or findings on the unenforceability of PEAKS loans prior to 2020.",
+   "evidence": "then there's nothing to enforce."
+  },
+  {
+    "chunk_number": 26,
+    "start_page": 87,
+    "start_line": 12,
+    "end_page": 88,
+    "end_line": 13,
+    "topic": "PEAKS loans program issues with servicing",
+    "summary": "The witness was asked if anyone had issues with Vervent's servicing of the PEAKS loans and replied 'I don't recall'.",
+    "evidence": "I -- yeah, I don't recall."
+  }
+]

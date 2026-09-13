@@ -1,0 +1,6 @@
+﻿fastapi==0.141.1
+uvicorn==0.52.4
+pypdf==6.18.1
+python-multipart==0.0.32
+ollama==0.6.2
+pytest==9.1.1

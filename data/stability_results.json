@@ -1,0 +1,878 @@
+{
+  "runs": [
+    [
+      {
+        "chunk_number": 1,
+        "start_page": 7,
+        "start_line": 11,
+        "end_page": 10,
+        "end_line": 15,
+        "topic": "Introduction and Setting the Tone for the Deposition"
+      },
+      {
+        "chunk_number": 2,
+        "start_page": 10,
+        "start_line": 16,
+        "end_page": 13,
+        "end_line": 21,
+        "topic": "Introduction to the Student Borrower Protection Center"
+      },
+      {
+        "chunk_number": 3,
+        "start_page": 13,
+        "start_line": 22,
+        "end_page": 17,
+        "end_line": 1,
+        "topic": "Advocacy for Student Loan Borrowers"
+      },
+      {
+        "chunk_number": 4,
+        "start_page": 17,
+        "start_line": 2,
+        "end_page": 20,
+        "end_line": 6,
+        "topic": "Expert Testimony on Student Loan Servicing"
+      },
+      {
+        "chunk_number": 5,
+        "start_page": 20,
+        "start_line": 7,
+        "end_page": 23,
+        "end_line": 11,
+        "topic": "Changes in Student Loan Servicing"
+      },
+      {
+        "chunk_number": 6,
+        "start_page": 23,
+        "start_line": 12,
+        "end_page": 26,
+        "end_line": 16,
+        "topic": "State Laws and Regulations"
+      },
+      {
+        "chunk_number": 7,
+        "start_page": 26,
+        "start_line": 17,
+        "end_page": 29,
+        "end_line": 21,
+        "topic": "For-profit colleges and their impact on students"
+      },
+      {
+        "chunk_number": 8,
+        "start_page": 29,
+        "start_line": 22,
+        "end_page": 33,
+        "end_line": 1,
+        "topic": "Economic Outcomes of ITT Students"
+      },
+      {
+        "chunk_number": 9,
+        "start_page": 33,
+        "start_line": 2,
+        "end_page": 36,
+        "end_line": 6,
+        "topic": "ITT Education's Misrepresentation of Education Benefits"
+      },
+      {
+        "chunk_number": 10,
+        "start_page": 36,
+        "start_line": 7,
+        "end_page": 39,
+        "end_line": 11,
+        "topic": "Misrepresentations in ITT's financing and accreditation practices"
+      },
+      {
+        "chunk_number": 11,
+        "start_page": 39,
+        "start_line": 12,
+        "end_page": 42,
+        "end_line": 16,
+        "topic": "Outliers in ITT Student Salaries"
+      },
+      {
+        "chunk_number": 12,
+        "start_page": 42,
+        "start_line": 17,
+        "end_page": 45,
+        "end_line": 21,
+        "topic": "Vervent defendants' role in PEAKS loans"
+      },
+      {
+        "chunk_number": 13,
+        "start_page": 45,
+        "start_line": 22,
+        "end_page": 49,
+        "end_line": 1,
+        "topic": "Enforceability of PEAKS Loans"
+      },
+      {
+        "chunk_number": 14,
+        "start_page": 49,
+        "start_line": 2,
+        "end_page": 52,
+        "end_line": 6,
+        "topic": "Misstatements in loan documentation"
+      },
+      {
+        "chunk_number": 15,
+        "start_page": 52,
+        "start_line": 7,
+        "end_page": 55,
+        "end_line": 11,
+        "topic": "Witness's testimony on Vervent's knowledge of loan interest rates"
+      },
+      {
+        "chunk_number": 16,
+        "start_page": 55,
+        "start_line": 12,
+        "end_page": 58,
+        "end_line": 16,
+        "topic": "Disclosure Requirements for Student Loans"
+      },
+      {
+        "chunk_number": 17,
+        "start_page": 58,
+        "start_line": 17,
+        "end_page": 61,
+        "end_line": 21,
+        "topic": "Enforceability of Student Loans"
+      },
+      {
+        "chunk_number": 18,
+        "start_page": 61,
+        "start_line": 22,
+        "end_page": 65,
+        "end_line": 1,
+        "topic": "ITT Educational Services settlement and its implications"
+      },
+      {
+        "chunk_number": 19,
+        "start_page": 65,
+        "start_line": 2,
+        "end_page": 68,
+        "end_line": 6,
+        "topic": "ITT Student Loan Practices"
+      },
+      {
+        "chunk_number": 20,
+        "start_page": 68,
+        "start_line": 7,
+        "end_page": 71,
+        "end_line": 11,
+        "topic": "SEC Investigation of Vervent Defendants"
+      },
+      {
+        "chunk_number": 21,
+        "start_page": 71,
+        "start_line": 12,
+        "end_page": 74,
+        "end_line": 16,
+        "topic": "Consumer Financial Protection Bureau's lawsuit against ITT"
+      },
+      {
+        "chunk_number": 22,
+        "start_page": 74,
+        "start_line": 17,
+        "end_page": 77,
+        "end_line": 21,
+        "topic": "Investigations and Findings by the U.S. Department of Education"
+      },
+      {
+        "chunk_number": 23,
+        "start_page": 77,
+        "start_line": 22,
+        "end_page": 81,
+        "end_line": 1,
+        "topic": "Investigations into ITT and PEAKS program"
+      },
+      {
+        "chunk_number": 24,
+        "start_page": 81,
+        "start_line": 2,
+        "end_page": 84,
+        "end_line": 6,
+        "topic": "Servicer Regulation and Enforcement"
+      },
+      {
+        "chunk_number": 25,
+        "start_page": 84,
+        "start_line": 7,
+        "end_page": 87,
+        "end_line": 11,
+        "topic": "Expert Witness Testimony on PEAKS Loans"
+      },
+      {
+        "chunk_number": 26,
+        "start_page": 87,
+        "start_line": 12,
+        "end_page": 88,
+        "end_line": 13,
+        "topic": "PEAKS loans program"
+      }
+    ],
+    [
+      {
+        "chunk_number": 1,
+        "start_page": 7,
+        "start_line": 11,
+        "end_page": 10,
+        "end_line": 15,
+        "topic": "Introduction and Setting the Tone for the Deposition"
+      },
+      {
+        "chunk_number": 2,
+        "start_page": 10,
+        "start_line": 16,
+        "end_page": 13,
+        "end_line": 21,
+        "topic": "Introduction to the Student Borrower Protection Center"
+      },
+      {
+        "chunk_number": 3,
+        "start_page": 13,
+        "start_line": 22,
+        "end_page": 17,
+        "end_line": 1,
+        "topic": "Advocacy for Student Loan Borrowers"
+      },
+      {
+        "chunk_number": 4,
+        "start_page": 17,
+        "start_line": 2,
+        "end_page": 20,
+        "end_line": 6,
+        "topic": "Expert Testimony on Student Loan Servicing"
+      },
+      {
+        "chunk_number": 5,
+        "start_page": 20,
+        "start_line": 7,
+        "end_page": 23,
+        "end_line": 11,
+        "topic": "Changes in Student Loan Servicing"
+      },
+      {
+        "chunk_number": 6,
+        "start_page": 23,
+        "start_line": 12,
+        "end_page": 26,
+        "end_line": 16,
+        "topic": "State Laws and Regulations"
+      },
+      {
+        "chunk_number": 7,
+        "start_page": 26,
+        "start_line": 17,
+        "end_page": 29,
+        "end_line": 21,
+        "topic": "For-profit colleges and their impact on students"
+      },
+      {
+        "chunk_number": 8,
+        "start_page": 29,
+        "start_line": 22,
+        "end_page": 33,
+        "end_line": 1,
+        "topic": "Economic Outcomes of ITT Students"
+      },
+      {
+        "chunk_number": 9,
+        "start_page": 33,
+        "start_line": 2,
+        "end_page": 36,
+        "end_line": 6,
+        "topic": "ITT Education's Misrepresentation of Education Benefits"
+      },
+      {
+        "chunk_number": 10,
+        "start_page": 36,
+        "start_line": 7,
+        "end_page": 39,
+        "end_line": 11,
+        "topic": "Misrepresentations in ITT's financing and accreditation practices"
+      },
+      {
+        "chunk_number": 11,
+        "start_page": 39,
+        "start_line": 12,
+        "end_page": 42,
+        "end_line": 16,
+        "topic": "Outliers in ITT Student Salaries"
+      },
+      {
+        "chunk_number": 12,
+        "start_page": 42,
+        "start_line": 17,
+        "end_page": 45,
+        "end_line": 21,
+        "topic": "Vervent defendants' role in PEAKS loans"
+      },
+      {
+        "chunk_number": 13,
+        "start_page": 45,
+        "start_line": 22,
+        "end_page": 49,
+        "end_line": 1,
+        "topic": "Enforceability of PEAKS Loans"
+      },
+      {
+        "chunk_number": 14,
+        "start_page": 49,
+        "start_line": 2,
+        "end_page": 52,
+        "end_line": 6,
+        "topic": "Misstatements in loan documentation"
+      },
+      {
+        "chunk_number": 15,
+        "start_page": 52,
+        "start_line": 7,
+        "end_page": 55,
+        "end_line": 11,
+        "topic": "Witness's testimony on Vervent's knowledge of loan interest rates"
+      },
+      {
+        "chunk_number": 16,
+        "start_page": 55,
+        "start_line": 12,
+        "end_page": 58,
+        "end_line": 16,
+        "topic": "Disclosure Requirements for Student Loans"
+      },
+      {
+        "chunk_number": 17,
+        "start_page": 58,
+        "start_line": 17,
+        "end_page": 61,
+        "end_line": 21,
+        "topic": "Enforceability of Student Loans"
+      },
+      {
+        "chunk_number": 18,
+        "start_page": 61,
+        "start_line": 22,
+        "end_page": 65,
+        "end_line": 1,
+        "topic": "ITT Educational Services settlement and its implications"
+      },
+      {
+        "chunk_number": 19,
+        "start_page": 65,
+        "start_line": 2,
+        "end_page": 68,
+        "end_line": 6,
+        "topic": "ITT Student Loan Practices"
+      },
+      {
+        "chunk_number": 20,
+        "start_page": 68,
+        "start_line": 7,
+        "end_page": 71,
+        "end_line": 11,
+        "topic": "SEC Investigation of Vervent Defendants"
+      },
+      {
+        "chunk_number": 21,
+        "start_page": 71,
+        "start_line": 12,
+        "end_page": 74,
+        "end_line": 16,
+        "topic": "Consumer Financial Protection Bureau's lawsuit against ITT"
+      },
+      {
+        "chunk_number": 22,
+        "start_page": 74,
+        "start_line": 17,
+        "end_page": 77,
+        "end_line": 21,
+        "topic": "Investigations and Findings by the U.S. Department of Education"
+      },
+      {
+        "chunk_number": 23,
+        "start_page": 77,
+        "start_line": 22,
+        "end_page": 81,
+        "end_line": 1,
+        "topic": "Investigations into ITT and PEAKS program"
+      },
+      {
+        "chunk_number": 24,
+        "start_page": 81,
+        "start_line": 2,
+        "end_page": 84,
+        "end_line": 6,
+        "topic": "Servicer Responsibilities and Loan Enforcement"
+      },
+      {
+        "chunk_number": 25,
+        "start_page": 84,
+        "start_line": 7,
+        "end_page": 87,
+        "end_line": 11,
+        "topic": "Expert Witness Testimony on PEAKS Loans"
+      },
+      {
+        "chunk_number": 26,
+        "start_page": 87,
+        "start_line": 12,
+        "end_page": 88,
+        "end_line": 13,
+        "topic": "PEAKS loans program servicing issues"
+      }
+    ],
+    [
+      {
+        "chunk_number": 1,
+        "start_page": 7,
+        "start_line": 11,
+        "end_page": 10,
+        "end_line": 15,
+        "topic": "Introduction and Setting the Tone for the Deposition"
+      },
+      {
+        "chunk_number": 2,
+        "start_page": 10,
+        "start_line": 16,
+        "end_page": 13,
+        "end_line": 21,
+        "topic": "Introduction to the Student Borrower Protection Center"
+      },
+      {
+        "chunk_number": 3,
+        "start_page": 13,
+        "start_line": 22,
+        "end_page": 17,
+        "end_line": 1,
+        "topic": "Advocacy for Student Loan Borrowers"
+      },
+      {
+        "chunk_number": 4,
+        "start_page": 17,
+        "start_line": 2,
+        "end_page": 20,
+        "end_line": 6,
+        "topic": "Expert Testimony on Student Loan Servicing"
+      },
+      {
+        "chunk_number": 5,
+        "start_page": 20,
+        "start_line": 7,
+        "end_page": 23,
+        "end_line": 11,
+        "topic": "Changes in Student Loan Servicing"
+      },
+      {
+        "chunk_number": 6,
+        "start_page": 23,
+        "start_line": 12,
+        "end_page": 26,
+        "end_line": 16,
+        "topic": "State Laws and Regulations"
+      },
+      {
+        "chunk_number": 7,
+        "start_page": 26,
+        "start_line": 17,
+        "end_page": 29,
+        "end_line": 21,
+        "topic": "For-profit colleges and their impact on students"
+      },
+      {
+        "chunk_number": 8,
+        "start_page": 29,
+        "start_line": 22,
+        "end_page": 33,
+        "end_line": 1,
+        "topic": "Economic Outcomes of ITT Students"
+      },
+      {
+        "chunk_number": 9,
+        "start_page": 33,
+        "start_line": 2,
+        "end_page": 36,
+        "end_line": 6,
+        "topic": "ITT Education's Misrepresentation of Education Benefits"
+      },
+      {
+        "chunk_number": 10,
+        "start_page": 36,
+        "start_line": 7,
+        "end_page": 39,
+        "end_line": 11,
+        "topic": "Misrepresentations in ITT's financing and accreditation practices"
+      },
+      {
+        "chunk_number": 11,
+        "start_page": 39,
+        "start_line": 12,
+        "end_page": 42,
+        "end_line": 16,
+        "topic": "Outliers in ITT Student Salaries"
+      },
+      {
+        "chunk_number": 12,
+        "start_page": 42,
+        "start_line": 17,
+        "end_page": 45,
+        "end_line": 21,
+        "topic": "Vervent defendants' role in PEAKS loans"
+      },
+      {
+        "chunk_number": 13,
+        "start_page": 45,
+        "start_line": 22,
+        "end_page": 49,
+        "end_line": 1,
+        "topic": "Enforceability of PEAKS Loans"
+      },
+      {
+        "chunk_number": 14,
+        "start_page": 49,
+        "start_line": 2,
+        "end_page": 52,
+        "end_line": 6,
+        "topic": "Misstatements in loan documentation"
+      },
+      {
+        "chunk_number": 15,
+        "start_page": 52,
+        "start_line": 7,
+        "end_page": 55,
+        "end_line": 11,
+        "topic": "Witness's testimony on Vervent's knowledge of loan interest rates"
+      },
+      {
+        "chunk_number": 16,
+        "start_page": 55,
+        "start_line": 12,
+        "end_page": 58,
+        "end_line": 16,
+        "topic": "Disclosure Requirements for Student Loans"
+      },
+      {
+        "chunk_number": 17,
+        "start_page": 58,
+        "start_line": 17,
+        "end_page": 61,
+        "end_line": 21,
+        "topic": "Enforceability of Student Loans"
+      },
+      {
+        "chunk_number": 18,
+        "start_page": 61,
+        "start_line": 22,
+        "end_page": 65,
+        "end_line": 1,
+        "topic": "ITT Educational Services settlement and its implications"
+      },
+      {
+        "chunk_number": 19,
+        "start_page": 65,
+        "start_line": 2,
+        "end_page": 68,
+        "end_line": 6,
+        "topic": "ITT Student Loan Practices"
+      },
+      {
+        "chunk_number": 20,
+        "start_page": 68,
+        "start_line": 7,
+        "end_page": 71,
+        "end_line": 11,
+        "topic": "SEC Investigation of Vervent Defendants"
+      },
+      {
+        "chunk_number": 21,
+        "start_page": 71,
+        "start_line": 12,
+        "end_page": 74,
+        "end_line": 16,
+        "topic": "Consumer Financial Protection Bureau's lawsuit against ITT"
+      },
+      {
+        "chunk_number": 22,
+        "start_page": 74,
+        "start_line": 17,
+        "end_page": 77,
+        "end_line": 21,
+        "topic": "Investigations and Findings by the U.S. Department of Education"
+      },
+      {
+        "chunk_number": 23,
+        "start_page": 77,
+        "start_line": 22,
+        "end_page": 81,
+        "end_line": 1,
+        "topic": "Investigations into ITT and PEAKS program"
+      },
+      {
+        "chunk_number": 24,
+        "start_page": 81,
+        "start_line": 2,
+        "end_page": 84,
+        "end_line": 6,
+        "topic": "Servicer Responsibilities and Loan Enforcement"
+      },
+      {
+        "chunk_number": 25,
+        "start_page": 84,
+        "start_line": 7,
+        "end_page": 87,
+        "end_line": 11,
+        "topic": "Expert Witness Testimony on PEAKS Loans"
+      },
+      {
+        "chunk_number": 26,
+        "start_page": 87,
+        "start_line": 12,
+        "end_page": 88,
+        "end_line": 13,
+        "topic": "PEAKS loans program servicing issues"
+      }
+    ]
+  ],
+  "summary": {
+    "total_chunks": 26,
+    "total_runs": 3,
+    "stable_chunks": 24,
+    "stability_rate": 0.9230769230769231,
+    "boundary_stability": true,
+    "boundary_reason": "Chunk boundaries are deterministic because they are derived directly from the ordered transcript records."
+  },
+  "comparisons": [
+    {
+      "chunk_number": 1,
+      "topics": [
+        "Introduction and Setting the Tone for the Deposition",
+        "Introduction and Setting the Tone for the Deposition",
+        "Introduction and Setting the Tone for the Deposition"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 2,
+      "topics": [
+        "Introduction to the Student Borrower Protection Center",
+        "Introduction to the Student Borrower Protection Center",
+        "Introduction to the Student Borrower Protection Center"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 3,
+      "topics": [
+        "Advocacy for Student Loan Borrowers",
+        "Advocacy for Student Loan Borrowers",
+        "Advocacy for Student Loan Borrowers"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 4,
+      "topics": [
+        "Expert Testimony on Student Loan Servicing",
+        "Expert Testimony on Student Loan Servicing",
+        "Expert Testimony on Student Loan Servicing"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 5,
+      "topics": [
+        "Changes in Student Loan Servicing",
+        "Changes in Student Loan Servicing",
+        "Changes in Student Loan Servicing"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 6,
+      "topics": [
+        "State Laws and Regulations",
+        "State Laws and Regulations",
+        "State Laws and Regulations"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 7,
+      "topics": [
+        "For-profit colleges and their impact on students",
+        "For-profit colleges and their impact on students",
+        "For-profit colleges and their impact on students"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 8,
+      "topics": [
+        "Economic Outcomes of ITT Students",
+        "Economic Outcomes of ITT Students",
+        "Economic Outcomes of ITT Students"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 9,
+      "topics": [
+        "ITT Education's Misrepresentation of Education Benefits",
+        "ITT Education's Misrepresentation of Education Benefits",
+        "ITT Education's Misrepresentation of Education Benefits"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 10,
+      "topics": [
+        "Misrepresentations in ITT's financing and accreditation practices",
+        "Misrepresentations in ITT's financing and accreditation practices",
+        "Misrepresentations in ITT's financing and accreditation practices"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 11,
+      "topics": [
+        "Outliers in ITT Student Salaries",
+        "Outliers in ITT Student Salaries",
+        "Outliers in ITT Student Salaries"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 12,
+      "topics": [
+        "Vervent defendants' role in PEAKS loans",
+        "Vervent defendants' role in PEAKS loans",
+        "Vervent defendants' role in PEAKS loans"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 13,
+      "topics": [
+        "Enforceability of PEAKS Loans",
+        "Enforceability of PEAKS Loans",
+        "Enforceability of PEAKS Loans"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 14,
+      "topics": [
+        "Misstatements in loan documentation",
+        "Misstatements in loan documentation",
+        "Misstatements in loan documentation"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 15,
+      "topics": [
+        "Witness's testimony on Vervent's knowledge of loan interest rates",
+        "Witness's testimony on Vervent's knowledge of loan interest rates",
+        "Witness's testimony on Vervent's knowledge of loan interest rates"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 16,
+      "topics": [
+        "Disclosure Requirements for Student Loans",
+        "Disclosure Requirements for Student Loans",
+        "Disclosure Requirements for Student Loans"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 17,
+      "topics": [
+        "Enforceability of Student Loans",
+        "Enforceability of Student Loans",
+        "Enforceability of Student Loans"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 18,
+      "topics": [
+        "ITT Educational Services settlement and its implications",
+        "ITT Educational Services settlement and its implications",
+        "ITT Educational Services settlement and its implications"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 19,
+      "topics": [
+        "ITT Student Loan Practices",
+        "ITT Student Loan Practices",
+        "ITT Student Loan Practices"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 20,
+      "topics": [
+        "SEC Investigation of Vervent Defendants",
+        "SEC Investigation of Vervent Defendants",
+        "SEC Investigation of Vervent Defendants"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 21,
+      "topics": [
+        "Consumer Financial Protection Bureau's lawsuit against ITT",
+        "Consumer Financial Protection Bureau's lawsuit against ITT",
+        "Consumer Financial Protection Bureau's lawsuit against ITT"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 22,
+      "topics": [
+        "Investigations and Findings by the U.S. Department of Education",
+        "Investigations and Findings by the U.S. Department of Education",
+        "Investigations and Findings by the U.S. Department of Education"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 23,
+      "topics": [
+        "Investigations into ITT and PEAKS program",
+        "Investigations into ITT and PEAKS program",
+        "Investigations into ITT and PEAKS program"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 24,
+      "topics": [
+        "Servicer Regulation and Enforcement",
+        "Servicer Responsibilities and Loan Enforcement",
+        "Servicer Responsibilities and Loan Enforcement"
+      ],
+      "stable": false
+    },
+    {
+      "chunk_number": 25,
+      "topics": [
+        "Expert Witness Testimony on PEAKS Loans",
+        "Expert Witness Testimony on PEAKS Loans",
+        "Expert Witness Testimony on PEAKS Loans"
+      ],
+      "stable": true
+    },
+    {
+      "chunk_number": 26,
+      "topics": [
+        "PEAKS loans program",
+        "PEAKS loans program servicing issues",
+        "PEAKS loans program servicing issues"
+      ],
+      "stable": false
+    }
+  ]
+}

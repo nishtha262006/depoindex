@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DepoIndex — Deposition Topic Index</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px;
+            background: #f5f5f5;
+            color: #222;
+        }
+
+        h1 {
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        .stat {
+            background: white;
+            padding: 15px 20px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+
+        .stat strong {
+            display: block;
+            font-size: 24px;
+        }
+
+        #search {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+
+        .topic {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+
+        .topic h2 {
+            margin-top: 0;
+            font-size: 20px;
+        }
+
+        .location {
+            font-weight: bold;
+            margin-bottom: 12px;
+        }
+
+        .evidence {
+            background: #f8f8f8;
+            border-left: 4px solid #888;
+            padding: 12px;
+            margin-top: 10px;
+        }
+
+        .pass {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 5px 9px;
+            border-radius: 4px;
+            background: #e7f5e7;
+            color: #176b17;
+            font-weight: bold;
+        }
+
+        #status {
+            margin: 15px 0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<h1>DepoIndex</h1>
+<div class="subtitle">
+    AI-Powered Deposition Topic Index — Persis Yu Deposition
+</div>
+
+<div class="stats">
+    <div class="stat">
+        <strong id="topicCount">-</strong>
+        Topics
+    </div>
+    <div class="stat">
+        <strong id="validCount">-</strong>
+        Valid Provenance
+    </div>
+</div>
+
+<input
+    id="search"
+    type="text"
+    placeholder="Search topics, evidence, or page numbers..."
+>
+
+<div id="status">Loading Topic Index...</div>
+<div id="topics"></div>
+
+<script>
+let topics = [];
+
+async function loadTopics() {
+    try {
+        const response = await fetch("../data/final_topic_index.json");
+
+        if (!response.ok) {
+            throw new Error("Could not load Topic Index.");
+        }
+
+        topics = await response.json();
+
+        document.getElementById("topicCount").textContent = topics.length;
+
+        const valid = topics.filter(
+            topic => topic.provenance_valid === true
+        ).length;
+
+        document.getElementById("validCount").textContent =
+            valid + "/" + topics.length;
+
+        document.getElementById("status").textContent =
+            "Showing " + topics.length + " verified topic segments.";
+
+        renderTopics(topics);
+    } catch (error) {
+        document.getElementById("status").textContent =
+            "Error loading Topic Index: " + error.message;
+    }
+}
+
+function renderTopics(items) {
+    const container = document.getElementById("topics");
+
+    if (items.length === 0) {
+        container.innerHTML = "<p>No matching topics found.</p>";
+        return;
+    }
+
+    container.innerHTML = items.map((topic, index) => `
+        <div class="topic">
+            <h2>${index + 1}. ${escapeHtml(topic.topic)}</h2>
+
+            <div class="location">
+                Page ${topic.start_page}, Line ${topic.start_line}
+                — Page ${topic.end_page}, Line ${topic.end_line}
+            </div>
+
+            <div>
+                <strong>Evidence:</strong>
+                <div class="evidence">
+                    ${escapeHtml(topic.evidence)}
+                </div>
+            </div>
+
+            <div class="pass">
+                ${topic.provenance_valid ? "PROVENANCE VALID" : "PROVENANCE INVALID"}
+            </div>
+        </div>
+    `).join("");
+}
+
+function escapeHtml(value) {
+    return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+}
+
+document.getElementById("search").addEventListener("input", function () {
+    const query = this.value.toLowerCase().trim();
+
+    if (!query) {
+        renderTopics(topics);
+        return;
+    }
+
+    const filtered = topics.filter(topic =>
+        String(topic.topic).toLowerCase().includes(query) ||
+        String(topic.evidence).toLowerCase().includes(query) ||
+        String(topic.start_page).includes(query) ||
+        String(topic.end_page).includes(query)
+    );
+
+    renderTopics(filtered);
+});
+
+loadTopics();
+</script>
+
+</body>
+</html>

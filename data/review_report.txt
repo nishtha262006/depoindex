@@ -1,0 +1,522 @@
+DEPOINDEX — MANUAL REVIEW REPORT
+================================================================================
+
+Review the first 20 topics for location accuracy, topic relevance, boundary quality, coverage, and redundancy.
+
+================================================================================
+TOPIC 1: Introduction and Setting the Tone for the Deposition
+--------------------------------------------------------------------------------
+Range: Page 7, Line 11 - Page 10, Line 15
+
+Evidence: A    I have not.
+
+START BOUNDARY CONTEXT:
+[Page 7, Line 11] BY MR. PURCELL:
+[Page 7, Line 12] Q    Good afternoon, Ms. Yu.  My name's John Purcell.
+[Page 7, Line 13] I represent the defendants, and we will hopefully get you
+[Page 7, Line 14] out of here fairly soon.
+[Page 7, Line 15] At the beginning of a deposition, I always make
+
+END BOUNDARY CONTEXT:
+[Page 10, Line 11] When we start reading, sometimes we read so fast
+[Page 10, Line 12] it makes it hard for the court reporter, and also, since
+[Page 10, Line 13] this is being recorded on video, it's a little harder to
+[Page 10, Line 14] follow when -- when you talk really fast; so just a
+[Page 10, Line 15] caution.
+[Page 10, Line 16] And from time to time, I might ask you to slow
+[Page 10, Line 17] down a bit, or your counsel might, or the court reporter
+
+
+================================================================================
+TOPIC 2: Introduction to the Student Borrower Protection Center
+--------------------------------------------------------------------------------
+Range: Page 10, Line 16 - Page 13, Line 21
+
+Evidence: A    I understand.
+
+START BOUNDARY CONTEXT:
+[Page 10, Line 14] follow when -- when you talk really fast; so just a
+[Page 10, Line 15] caution.
+[Page 10, Line 16] And from time to time, I might ask you to slow
+[Page 10, Line 17] down a bit, or your counsel might, or the court reporter
+[Page 10, Line 18] might, and all of us are doing that just to make sure the
+[Page 10, Line 19] record's easy to follow.
+[Page 10, Line 20] Do you understand that?
+
+END BOUNDARY CONTEXT:
+[Page 13, Line 17] A    Sure.
+[Page 13, Line 18] So we do a deep analysis of the -- of the
+[Page 13, Line 19] Higher Education Act and other
+[Page 13, Line 20] Consumer Financial Protection laws that are in place
+[Page 13, Line 21] surrounding the student loan market.  We examine both the
+[Page 13, Line 22] practices in the market, as well as the laws, to look for
+[Page 13, Line 23] ways in which it can be improved to be more fair to
+
+
+================================================================================
+TOPIC 3: Advocacy for Student Loan Borrowers
+--------------------------------------------------------------------------------
+Range: Page 13, Line 22 - Page 17, Line 1
+
+Evidence: THE WITNESS:  Income-driven repayment rules.
+
+START BOUNDARY CONTEXT:
+[Page 13, Line 20] Consumer Financial Protection laws that are in place
+[Page 13, Line 21] surrounding the student loan market.  We examine both the
+[Page 13, Line 22] practices in the market, as well as the laws, to look for
+[Page 13, Line 23] ways in which it can be improved to be more fair to
+[Page 13, Line 24] student loan borrowers; and then we write policy memos.
+[Page 13, Line 25] We do research, and then present those findings both
+[Page 14, Line 1] publicly and then to policymakers.
+
+END BOUNDARY CONTEXT:
+[Page 16, Line 22] a number of requests for information on student loan
+[Page 16, Line 23] supervising on its -- their student loan -- they have had
+[Page 16, Line 24] a number of solicitation processes where they are
+[Page 16, Line 25] attempting to renegotiate their contract with federal
+[Page 17, Line 1] student loan servicers.
+[Page 17, Line 2] I've provided comments during the -- I -- the
+[Page 17, Line 3] most recent RFI on their student loan servicing proposals.
+
+
+================================================================================
+TOPIC 4: Expert Testimony on Student Loan Servicing
+--------------------------------------------------------------------------------
+Range: Page 17, Line 2 - Page 20, Line 6
+
+Evidence: THE WITNESS:  I'm sorry.
+
+START BOUNDARY CONTEXT:
+[Page 16, Line 25] attempting to renegotiate their contract with federal
+[Page 17, Line 1] student loan servicers.
+[Page 17, Line 2] I've provided comments during the -- I -- the
+[Page 17, Line 3] most recent RFI on their student loan servicing proposals.
+[Page 17, Line 4] I provided comments in I want to say it was 2015.  I've
+[Page 17, Line 5] also participated in listening sessions with the
+[Page 17, Line 6] Department of Education on those.  They're not
+
+END BOUNDARY CONTEXT:
+[Page 20, Line 2] Q    Ms. Yu, you're starting to go fast again.
+[Page 20, Line 3] Apologies.
+[Page 20, Line 4] A    Sorry.
+[Page 20, Line 5] Most -- so most recently we saw, for example,
+[Page 20, Line 6] Navient left the Department of Education's loan portfolio,
+[Page 20, Line 7] and the loans were transferred to the company Maximus,
+[Page 20, Line 8] which runs a servicer called Aidvantage.  The -- PHEAA,
+
+
+================================================================================
+TOPIC 5: Changes in Student Loan Servicing
+--------------------------------------------------------------------------------
+Range: Page 20, Line 7 - Page 23, Line 11
+
+Evidence: THE WITNESS:  Yes, I -- so what I understand --
+
+START BOUNDARY CONTEXT:
+[Page 20, Line 5] Most -- so most recently we saw, for example,
+[Page 20, Line 6] Navient left the Department of Education's loan portfolio,
+[Page 20, Line 7] and the loans were transferred to the company Maximus,
+[Page 20, Line 8] which runs a servicer called Aidvantage.  The -- PHEAA,
+[Page 20, Line 9] the loan servicer which operates under the name
+[Page 20, Line 10] FedLoan Servicing, also left the federal student loan
+[Page 20, Line 11] market.  Their loans were transferred to the servicer
+
+END BOUNDARY CONTEXT:
+[Page 23, Line 7] Q    Are you -- are you aware of any regulations that
+[Page 23, Line 8] apply to the manner in which student loan servicing data
+[Page 23, Line 9] is supposed to be transferred from the original servicer
+[Page 23, Line 10] to the follow-on servicer when there's a change in student
+[Page 23, Line 11] loan servicing?
+[Page 23, Line 12] A    There are a number of state laws that would
+[Page 23, Line 13] apply.  For example,
+
+
+================================================================================
+TOPIC 6: State Laws and Regulations
+--------------------------------------------------------------------------------
+Range: Page 23, Line 12 - Page 26, Line 16
+
+Evidence: A    There are a number of state laws that would
+
+START BOUNDARY CONTEXT:
+[Page 23, Line 10] to the follow-on servicer when there's a change in student
+[Page 23, Line 11] loan servicing?
+[Page 23, Line 12] A    There are a number of state laws that would
+[Page 23, Line 13] apply.  For example,
+[Page 23, Line 14] California State Student Loan Servicing Law I believe has
+[Page 23, Line 15] requirements about the data that must be transferred from
+[Page 23, Line 16] one servicer to another in -- in a -- when a transfer
+
+END BOUNDARY CONTEXT:
+[Page 26, Line 12] issue?
+[Page 26, Line 13] A    This was -- that was outside the scope of my
+[Page 26, Line 14] report.
+[Page 26, Line 15] Q    Go down to -- I'm going to go back into your
+[Page 26, Line 16] report.  So I'm here -- there's paragraph 8 here.  You see
+[Page 26, Line 17] we're on page 2?  And after paragraph 8 we no longer have
+[Page 26, Line 18] any paragraph numbers.  Was that a conscious decision?
+
+
+================================================================================
+TOPIC 7: For-profit colleges and their impact on students
+--------------------------------------------------------------------------------
+Range: Page 26, Line 17 - Page 29, Line 21
+
+Evidence: THE WITNESS:  I never attended ITT.
+
+START BOUNDARY CONTEXT:
+[Page 26, Line 15] Q    Go down to -- I'm going to go back into your
+[Page 26, Line 16] report.  So I'm here -- there's paragraph 8 here.  You see
+[Page 26, Line 17] we're on page 2?  And after paragraph 8 we no longer have
+[Page 26, Line 18] any paragraph numbers.  Was that a conscious decision?
+[Page 26, Line 19] A    That was not a conscious decision.
+[Page 26, Line 20] Q    Okay.  It happens.  I'm not trying to give you a
+[Page 26, Line 21] hard time about it.  I just wondered if there's some
+
+END BOUNDARY CONTEXT:
+[Page 29, Line 17] BY MR. PURCELL:
+[Page 29, Line 18] Q    Uh-huh.
+[Page 29, Line 19] A    And so many of the -- a large -- systemically
+[Page 29, Line 20] large number of folks -- even if one were to say that
+[Page 29, Line 21] the -- the degree had value -- which I -- I don't -- what
+[Page 29, Line 22] I know is the data around earnings, and I know about the
+[Page 29, Line 23] data around retention.  I don't -- I'm not in a position
+
+
+================================================================================
+TOPIC 8: Economic Outcomes of ITT Students
+--------------------------------------------------------------------------------
+Range: Page 29, Line 22 - Page 33, Line 1
+
+Evidence: THE WITNESS:  The -- the -- I'm sorry.
+
+START BOUNDARY CONTEXT:
+[Page 29, Line 20] large number of folks -- even if one were to say that
+[Page 29, Line 21] the -- the degree had value -- which I -- I don't -- what
+[Page 29, Line 22] I know is the data around earnings, and I know about the
+[Page 29, Line 23] data around retention.  I don't -- I'm not in a position
+[Page 29, Line 24] to say about the educational quality, for example.  But
+[Page 29, Line 25] I -- what I can say is about the economic outcomes of
+[Page 30, Line 1] students that attend ITT are typic- -- are -- are
+
+END BOUNDARY CONTEXT:
+[Page 32, Line 22] Q    Sure.  I'll go back and ask it more simply --
+[Page 32, Line 23] A    Sure.
+[Page 32, Line 24] Q    -- with -- with the benefit of your answer.
+[Page 32, Line 25] So you're saying it would -- it would be atypical
+[Page 33, Line 1] if an ITT student graduated with a degree and also made
+[Page 33, Line 2] twice as much, if not more, than they made prior to
+[Page 33, Line 3] attending ITT after getting the -- the degree.
+
+
+================================================================================
+TOPIC 9: ITT Education's Misrepresentation of Education Benefits
+--------------------------------------------------------------------------------
+Range: Page 33, Line 2 - Page 36, Line 6
+
+Evidence: THE WITNESS:  So I think -- I mean, I think
+
+START BOUNDARY CONTEXT:
+[Page 32, Line 25] So you're saying it would -- it would be atypical
+[Page 33, Line 1] if an ITT student graduated with a degree and also made
+[Page 33, Line 2] twice as much, if not more, than they made prior to
+[Page 33, Line 3] attending ITT after getting the -- the degree.
+[Page 33, Line 4] That would be atypical; correct?
+[Page 33, Line 5] MR. BLOOD:  Incomplete hypothetical.
+[Page 33, Line 6] Go ahead.
+
+END BOUNDARY CONTEXT:
+[Page 36, Line 2] those representations.
+[Page 36, Line 3] Q    How do you know the loans were taken out based on
+[Page 36, Line 4] the misrepresentation?
+[Page 36, Line 5] A    Their --
+[Page 36, Line 6] (Simultaneous speakers.)
+[Page 36, Line 7] Q    -- talking about?
+[Page 36, Line 8] A    So the representations, certainly there's --
+
+
+================================================================================
+TOPIC 10: Misrepresentations in ITT's financing and accreditation practices
+--------------------------------------------------------------------------------
+Range: Page 36, Line 7 - Page 39, Line 11
+
+Evidence: THE WITNESS:  Okay.
+
+START BOUNDARY CONTEXT:
+[Page 36, Line 5] A    Their --
+[Page 36, Line 6] (Simultaneous speakers.)
+[Page 36, Line 7] Q    -- talking about?
+[Page 36, Line 8] A    So the representations, certainly there's --
+[Page 36, Line 9] there are numerous sources that cite to misrepresentations
+[Page 36, Line 10] with regard specifically to the financing of the
+[Page 36, Line 11] education.  So we see this both in the
+
+END BOUNDARY CONTEXT:
+[Page 39, Line 7] (Simultaneous speakers.)
+[Page 39, Line 8] Q    Ms. Yu, (unintelligible) --
+[Page 39, Line 9] THE REPORTER:  I'm sorry, guys, guys, guys, guys,
+[Page 39, Line 10] I'm sorry, I'm losing you guys.
+[Page 39, Line 11] BY MR. PURCELL:
+[Page 39, Line 12] Q    Ms. Yu, this -- that was part of the
+[Page 39, Line 13] hypothetical.  So that -- so I'm going to have to ask it
+
+
+================================================================================
+TOPIC 11: Outlier Identification in ITT Student Salaries
+--------------------------------------------------------------------------------
+Range: Page 39, Line 12 - Page 42, Line 16
+
+Evidence: THE WITNESS:  Yeah, I mean, the problem -- the
+
+START BOUNDARY CONTEXT:
+[Page 39, Line 10] I'm sorry, I'm losing you guys.
+[Page 39, Line 11] BY MR. PURCELL:
+[Page 39, Line 12] Q    Ms. Yu, this -- that was part of the
+[Page 39, Line 13] hypothetical.  So that -- so I'm going to have to ask it
+[Page 39, Line 14] again.
+[Page 39, Line 15] A    Okay.
+[Page 39, Line 16] Q    If there's an ITT student and they, A, got a
+
+END BOUNDARY CONTEXT:
+[Page 42, Line 12] did not got involved with the PEAKS portfolio until very
+[Page 42, Line 13] late in 2011, and that was after all of the PEAKS loans
+[Page 42, Line 14] were originated?
+[Page 42, Line 15] A    Yes, I understand that.
+[Page 42, Line 16] Q    Okay.  So based on your review of everything, the
+[Page 42, Line 17] Vervent defendants were not involved in the origination of
+[Page 42, Line 18] the PEAKS loans; correct?
+
+
+================================================================================
+TOPIC 12: Vervent defendants' role in PEAKS loans
+--------------------------------------------------------------------------------
+Range: Page 42, Line 17 - Page 45, Line 21
+
+Evidence: THE WITNESS:  That was -- that was outside the
+
+START BOUNDARY CONTEXT:
+[Page 42, Line 15] A    Yes, I understand that.
+[Page 42, Line 16] Q    Okay.  So based on your review of everything, the
+[Page 42, Line 17] Vervent defendants were not involved in the origination of
+[Page 42, Line 18] the PEAKS loans; correct?
+[Page 42, Line 19] A    The -- the Vervent defendants -- based upon my
+[Page 42, Line 20] analysis of the documents here, the -- the Vervent
+[Page 42, Line 21] defendants took the portfolio after most of those loans
+
+END BOUNDARY CONTEXT:
+[Page 45, Line 17] settlement and so no legal determination was made, as I
+[Page 45, Line 18] understand it, because they reached a settlement in which
+[Page 45, Line 19] the PEAKS loan program agreed to cancel any outstanding
+[Page 45, Line 20] loans.
+[Page 45, Line 21] Q    And that occurred in the fall of 2020; correct?
+[Page 45, Line 22] A    That's correct.
+[Page 45, Line 23] Q    And before that, are you aware of any court or
+
+
+================================================================================
+TOPIC 13: Legal Analysis of PEAKS Loans
+--------------------------------------------------------------------------------
+Range: Page 45, Line 22 - Page 49, Line 1
+
+Evidence: THE WITNESS:  So I'm trying to be careful because
+
+START BOUNDARY CONTEXT:
+[Page 45, Line 20] loans.
+[Page 45, Line 21] Q    And that occurred in the fall of 2020; correct?
+[Page 45, Line 22] A    That's correct.
+[Page 45, Line 23] Q    And before that, are you aware of any court or
+[Page 45, Line 24] other governmental agency that ordered that collections
+[Page 45, Line 25] should stop on the PEAKS loans?
+[Page 46, Line 1] THE REPORTER:  Hey, Counsel, could you sit up
+
+END BOUNDARY CONTEXT:
+[Page 48, Line 22] Q    Okay.  So to try to unpack that a little bit.
+[Page 48, Line 23] So you're telling me you do not currently have an
+[Page 48, Line 24] opinion about whether or not the PEAKS loans became
+[Page 48, Line 25] unenforceable at some time; is that correct?
+[Page 49, Line 1] A    So --
+[Page 49, Line 2] MR. BLOOD:  Misstates testimony.
+[Page 49, Line 3] Go ahead.
+
+
+================================================================================
+TOPIC 14: Misstatements in loan documentation
+--------------------------------------------------------------------------------
+Range: Page 49, Line 2 - Page 52, Line 6
+
+Evidence: THE WITNESS:  Yes.
+
+START BOUNDARY CONTEXT:
+[Page 48, Line 25] unenforceable at some time; is that correct?
+[Page 49, Line 1] A    So --
+[Page 49, Line 2] MR. BLOOD:  Misstates testimony.
+[Page 49, Line 3] Go ahead.
+[Page 49, Line 4] THE WITNESS:  Yes.
+[Page 49, Line 5] The -- the answer -- so the answer to my question
+[Page 49, Line 6] is that there are -- there are issues that arise within
+
+END BOUNDARY CONTEXT:
+[Page 52, Line 2] BY MR. PURCELL:
+[Page 52, Line 3] Q    It's also not a -- it's also not a law that you
+[Page 52, Line 4] reviewed in preparing your --
+[Page 52, Line 5] A    That's correct.
+[Page 52, Line 6] Q    -- report; correct?
+[Page 52, Line 7] THE REPORTER:  I'm sorry, guys, I'm sorry, guys.
+[Page 52, Line 8] I -- I couldn't get that whole question, Counsel.
+
+
+================================================================================
+TOPIC 15: Witness's testimony on Vervent's knowledge of loan interest rates
+--------------------------------------------------------------------------------
+Range: Page 52, Line 7 - Page 55, Line 11
+
+Evidence: THE WITNESS:  Whether -- the documents that was
+
+START BOUNDARY CONTEXT:
+[Page 52, Line 5] A    That's correct.
+[Page 52, Line 6] Q    -- report; correct?
+[Page 52, Line 7] THE REPORTER:  I'm sorry, guys, I'm sorry, guys.
+[Page 52, Line 8] I -- I couldn't get that whole question, Counsel.
+[Page 52, Line 9] THE WITNESS:  Whether -- the documents that was
+[Page 52, Line 10] transferred to Vervent --
+[Page 52, Line 11] (Simultaneous speakers.)
+
+END BOUNDARY CONTEXT:
+[Page 55, Line 7] However, you know, if a borrower were to ask, you
+[Page 55, Line 8] know, for their loan documentation, for proof of what
+[Page 55, Line 9] their interest rate, for example, are, but that, you know,
+[Page 55, Line 10] for proof that a loan exists, that Vervent does not have
+[Page 55, Line 11] access to those documents.  Vervent did not have those
+[Page 55, Line 12] documents.  As part -- that's my understanding from the
+[Page 55, Line 13] record.
+
+
+================================================================================
+TOPIC 16: Disclosure Requirements for Student Loans
+--------------------------------------------------------------------------------
+Range: Page 55, Line 12 - Page 58, Line 16
+
+Evidence: THE WITNESS:  I -- I'm sorry, I don't understand
+
+START BOUNDARY CONTEXT:
+[Page 55, Line 10] for proof that a loan exists, that Vervent does not have
+[Page 55, Line 11] access to those documents.  Vervent did not have those
+[Page 55, Line 12] documents.  As part -- that's my understanding from the
+[Page 55, Line 13] record.
+[Page 55, Line 14] Q    Do you believe that there was a wide-scale
+[Page 55, Line 15] failure to provide the PEAKS borrowers with the final
+[Page 55, Line 16] disclosures required by law with respect to their loans?
+
+END BOUNDARY CONTEXT:
+[Page 58, Line 12] time?  Right away?  A month into it?  When -- when would
+[Page 58, Line 13] they be unenforceable?
+[Page 58, Line 14] A    I mean, if no loan exists, then it can't -- like
+[Page 58, Line 15] no loan could be -- could exist without the disclosures,
+[Page 58, Line 16] and so you -- so I mean, I -- I guess one of the -- it's
+[Page 58, Line 17] not a loan.  It's not enforceable because it's not a loan
+[Page 58, Line 18] if the disclosures have not been made.  You have no
+
+
+================================================================================
+TOPIC 17: Enforceability of Student Loans
+--------------------------------------------------------------------------------
+Range: Page 58, Line 17 - Page 61, Line 21
+
+Evidence: THE WITNESS:  Yes, they would have to right to
+
+START BOUNDARY CONTEXT:
+[Page 58, Line 15] no loan could be -- could exist without the disclosures,
+[Page 58, Line 16] and so you -- so I mean, I -- I guess one of the -- it's
+[Page 58, Line 17] not a loan.  It's not enforceable because it's not a loan
+[Page 58, Line 18] if the disclosures have not been made.  You have no
+[Page 58, Line 19] evidence that -- I mean, I guess one of the things, you
+[Page 58, Line 20] have no evidence that money was ever paid to the school.
+[Page 58, Line 21] And so under that -- that loan -- that loan would not
+
+END BOUNDARY CONTEXT:
+[Page 61, Line 17] temporally -- the findings happened after the origination
+[Page 61, Line 18] of the loan, though they were referred to events that
+[Page 61, Line 19] happened during -- during origination.  And certainly,
+[Page 61, Line 20] the -- the canceling of the loans would suggest that they
+[Page 61, Line 21] were, you know -- when the loans were canceled, ultimately
+[Page 61, Line 22] within the CFPB settlement, that they were then no longer
+[Page 61, Line 23] enforceable loans as well.
+
+
+================================================================================
+TOPIC 18: ITT Educational Services Settlement and Government Loans
+--------------------------------------------------------------------------------
+Range: Page 61, Line 22 - Page 65, Line 1
+
+Evidence: THE WITNESS:  ITT did participate in the Title IV
+
+START BOUNDARY CONTEXT:
+[Page 61, Line 20] the -- the canceling of the loans would suggest that they
+[Page 61, Line 21] were, you know -- when the loans were canceled, ultimately
+[Page 61, Line 22] within the CFPB settlement, that they were then no longer
+[Page 61, Line 23] enforceable loans as well.
+[Page 61, Line 24] Q    Correct.
+[Page 61, Line 25] And that CFPB settlement, did you read it?
+[Page 62, Line 1] A    Yes, I have read it.
+
+END BOUNDARY CONTEXT:
+[Page 64, Line 22] not assume that the fact that the government provides
+[Page 64, Line 23] these loans means that there is some sort of seal of
+[Page 64, Line 24] approval by the federal government about the quality of
+[Page 64, Line 25] the education or the practices by the institution.
+[Page 65, Line 1] BY MR. PURCELL:
+[Page 65, Line 2] Q    Well, aside of it being a seal of approval, if it
+[Page 65, Line 3] was known to everybody, including the federal government,
+
+
+================================================================================
+TOPIC 19: ITT Student Loan Practices
+--------------------------------------------------------------------------------
+Range: Page 65, Line 2 - Page 68, Line 6
+
+Evidence: THE WITNESS:  So the purpose of the report that I
+
+START BOUNDARY CONTEXT:
+[Page 64, Line 25] the education or the practices by the institution.
+[Page 65, Line 1] BY MR. PURCELL:
+[Page 65, Line 2] Q    Well, aside of it being a seal of approval, if it
+[Page 65, Line 3] was known to everybody, including the federal government,
+[Page 65, Line 4] that ITT was basically a criminal enterprise, that was
+[Page 65, Line 5] widespread knowledge, do you really think that the federal
+[Page 65, Line 6] government would still give loans to students who wanted
+
+END BOUNDARY CONTEXT:
+[Page 68, Line 2] complaint, if not both, the CFPB relied on.
+[Page 68, Line 3] Q    Did -- regardless of which one it was, did the
+[Page 68, Line 4] CFPB ever make any findings that the Vervent defendants
+[Page 68, Line 5] did anything wrong with respect to their servicing of the
+[Page 68, Line 6] PEAKS loans?
+[Page 68, Line 7] A    The focus of the -- of the CFPB was primarily on
+[Page 68, Line 8] ITT and on the origination of these loans.
+
+
+================================================================================
+TOPIC 20: SEC Investigation of Vervent Defendants
+--------------------------------------------------------------------------------
+Range: Page 68, Line 7 - Page 71, Line 11
+
+Evidence: THE WITNESS:  Sorry.
+
+START BOUNDARY CONTEXT:
+[Page 68, Line 5] did anything wrong with respect to their servicing of the
+[Page 68, Line 6] PEAKS loans?
+[Page 68, Line 7] A    The focus of the -- of the CFPB was primarily on
+[Page 68, Line 8] ITT and on the origination of these loans.
+[Page 68, Line 9] Q    So you're not aware of any finding of wrongdoing
+[Page 68, Line 10] on the part of the Vervent defendants with respect to the
+[Page 68, Line 11] CFPB's investigation; correct?
+
+END BOUNDARY CONTEXT:
+[Page 71, Line 7] covered so you don't have to say it again when I ask this
+[Page 71, Line 8] question.
+[Page 71, Line 9] But the question is:  Are you aware of any issue
+[Page 71, Line 10] the SEC raised with respect to the Vervent defendants'
+[Page 71, Line 11] conduct with respect to the payments that ITT made on
+[Page 71, Line 12] behalf of borrowers?
+[Page 71, Line 13] A    I don't remember.
+
