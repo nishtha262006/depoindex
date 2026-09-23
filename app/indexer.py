@@ -1,29 +1,50 @@
 import json
 
 from app.chunker import chunk_transcript
-from app.llm import classify_chunk
+from app.llm import (
+    classify_chunk,
+    verify_topic_semantics,
+)
 from app.models import TopicSegment
 from app.transcript import build_transcript
 from app.validator import validate_all_topics
 
 
-def build_topic_index(pdf_path: str) -> list[TopicSegment]:
+def build_topic_index(
+    pdf_path: str,
+) -> list[TopicSegment]:
     """
     Build an initial Topic Index from the deposition.
 
     Each transcript chunk is classified by the local LLM.
-    The chunk boundaries preserve the original page/line
+    The generated topic is then independently checked for
+    semantic support against the same transcript chunk.
+
+    Chunk boundaries preserve the original page/line
     provenance.
     """
 
     chunks = chunk_transcript(pdf_path)
-
     topics = []
 
-    for chunk_number, chunk in enumerate(chunks, start=1):
-        print(f"Processing chunk {chunk_number}/{len(chunks)}...")
+    for chunk_number, chunk in enumerate(
+        chunks,
+        start=1,
+    ):
+        print(
+            f"Processing chunk "
+            f"{chunk_number}/{len(chunks)}..."
+        )
 
+        # Step 1: Generate the topic.
         result = classify_chunk(chunk)
+
+        # Step 2: Independently verify semantic support.
+        semantic = verify_topic_semantics(
+            chunk,
+            result["topic"],
+            result["summary"],
+        )
 
         start = chunk[0]
         end = chunk[-1]
@@ -35,6 +56,15 @@ def build_topic_index(pdf_path: str) -> list[TopicSegment]:
             end_page=end["page"],
             end_line=end["line"],
             evidence=result["evidence"],
+            semantic_supported=semantic[
+                "semantic_supported"
+            ],
+            semantic_score=semantic[
+                "semantic_score"
+            ],
+            semantic_reason=semantic[
+                "semantic_reason"
+            ],
         )
 
         topics.append(topic)
@@ -42,12 +72,16 @@ def build_topic_index(pdf_path: str) -> list[TopicSegment]:
     return topics
 
 
-def build_validated_index(pdf_path: str) -> list[dict]:
+def build_validated_index(
+    pdf_path: str,
+) -> list[dict]:
     """
-    Build the Topic Index and validate every topic's provenance.
+    Build the Topic Index and validate every topic's
+    provenance.
 
-    Returns JSON-serializable dictionaries containing the
-    topic information and provenance validation result.
+    Returns JSON-serializable dictionaries containing
+    the topic information, semantic validation result,
+    and provenance validation result.
     """
 
     transcript = build_transcript(pdf_path)
@@ -73,8 +107,12 @@ def build_validated_index(pdf_path: str) -> list[dict]:
         validated_topics.append(
             {
                 **topic,
-                "provenance_valid": validation["valid"],
-                "validation_reason": validation["reason"],
+                "provenance_valid": validation[
+                    "valid"
+                ],
+                "validation_reason": validation[
+                    "reason"
+                ],
             }
         )
 
