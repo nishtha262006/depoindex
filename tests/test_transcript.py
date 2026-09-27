@@ -52,3 +52,93 @@ def test_provenance_lookup_returns_exact_range():
     assert "You've reviewed a lot of investigations relating" in text
     assert "Vervent did the servicing" in text
     assert "I do not recall" in text
+
+
+def test_audit_detects_unparsed_lines(monkeypatch):
+    from app import transcript
+
+    def fake_extract(_):
+        return [
+            {
+                "pdf_page": 7,
+                "text": "1    Valid transcript line\nUnparsed testimony line",
+                "lines": [
+                    "1    Valid transcript line",
+                    "Unparsed testimony line",
+                ],
+            }
+        ]
+
+    monkeypatch.setattr(
+        transcript,
+        "extract_deposition",
+        fake_extract,
+    )
+
+    audit = transcript.audit_transcript("dummy.pdf")
+
+    assert len(audit["unparsed_lines"]) == 1
+    assert audit["unparsed_lines"][0]["text"] == "Unparsed testimony line"
+
+
+def test_audit_detects_duplicate_coordinates(monkeypatch):
+    from app import transcript
+
+    def fake_extract(_):
+        return [
+            {
+                "pdf_page": 7,
+                "text": "1    First\n1    Duplicate",
+                "lines": [
+                    "1    First",
+                    "1    Duplicate",
+                ],
+            }
+        ]
+
+    monkeypatch.setattr(
+        transcript,
+        "extract_deposition",
+        fake_extract,
+    )
+
+    audit = transcript.audit_transcript("dummy.pdf")
+
+    assert audit["duplicate_coordinates"] == [
+        {
+            "page": 7,
+            "line": 1,
+        }
+    ]
+
+
+def test_audit_detects_line_gaps(monkeypatch):
+    from app import transcript
+
+    def fake_extract(_):
+        return [
+            {
+                "pdf_page": 7,
+                "text": "1    First\n3    Third",
+                "lines": [
+                    "1    First",
+                    "3    Third",
+                ],
+            }
+        ]
+
+    monkeypatch.setattr(
+        transcript,
+        "extract_deposition",
+        fake_extract,
+    )
+
+    audit = transcript.audit_transcript("dummy.pdf")
+
+    assert audit["line_gaps"] == [
+        {
+            "page": 7,
+            "from_line": 1,
+            "to_line": 3,
+        }
+    ]

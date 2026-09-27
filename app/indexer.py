@@ -1,10 +1,12 @@
 import json
 
 from app.chunker import chunk_transcript
+from app.extractor import extract_deposition
 from app.llm import (
     classify_chunk,
     verify_topic_semantics,
 )
+from app.metadata import extract_metadata
 from app.models import TopicSegment
 from app.transcript import build_transcript
 from app.validator import validate_all_topics
@@ -16,15 +18,18 @@ def build_topic_index(
     """
     Build an initial Topic Index from the deposition.
 
-    Each transcript chunk is classified by the local LLM.
-    The generated topic is then independently checked for
-    semantic support against the same transcript chunk.
+    The LLM receives the transcript chunk together with
+    explicitly extracted deposition metadata.
 
-    Chunk boundaries preserve the original page/line
-    provenance.
+    Page/line provenance remains deterministic and is taken
+    directly from the transcript records.
     """
-
     chunks = chunk_transcript(pdf_path)
+
+    # Extract metadata once from the source PDF.
+    pages = extract_deposition(pdf_path)
+    metadata = extract_metadata(pages).to_dict()
+
     topics = []
 
     for chunk_number, chunk in enumerate(
@@ -36,10 +41,14 @@ def build_topic_index(
             f"{chunk_number}/{len(chunks)}..."
         )
 
-        # Step 1: Generate the topic.
-        result = classify_chunk(chunk)
+        # Step 1: Generate the topic using transcript
+        # plus deposition metadata as context.
+        result = classify_chunk(
+            chunk,
+            metadata,
+        )
 
-        # Step 2: Independently verify semantic support.
+        # Step 2: Verify semantic support.
         semantic = verify_topic_semantics(
             chunk,
             result["topic"],
@@ -83,7 +92,6 @@ def build_validated_index(
     the topic information, semantic validation result,
     and provenance validation result.
     """
-
     transcript = build_transcript(pdf_path)
 
     topics = build_topic_index(pdf_path)
@@ -126,7 +134,6 @@ def save_index(
     """
     Save the Topic Index as formatted JSON.
     """
-
     with open(
         output_path,
         "w",
