@@ -10,7 +10,9 @@ MARKDOWN_OUTPUT = "data/final_topic_index.md"
 def main():
     print("Building validated Topic Index...")
 
-    topics = build_validated_index(PDF_PATH)
+    topics = build_validated_index(
+        PDF_PATH
+    )
 
     save_json(
         topics,
@@ -22,16 +24,53 @@ def main():
         MARKDOWN_OUTPUT,
     )
 
-    valid_count = sum(
-        topic["provenance_valid"]
+    trusted_count = sum(
+        topic.get(
+            "validation_status"
+        ) == "TRUSTED"
+        for topic in topics
+    )
+
+    review_count = sum(
+        topic.get(
+            "validation_status"
+        ) == "REVIEW"
+        for topic in topics
+    )
+
+    provenance_count = sum(
+        topic.get(
+            "provenance_valid",
+            False,
+        )
         for topic in topics
     )
 
     print()
-    print(f"Topics generated: {len(topics)}")
-    print(f"Valid provenance: {valid_count}/{len(topics)}")
-    print(f"JSON saved to: {JSON_OUTPUT}")
-    print(f"Markdown saved to: {MARKDOWN_OUTPUT}")
+    print(
+        f"Topics generated: "
+        f"{len(topics)}"
+    )
+    print(
+        f"Trusted topics: "
+        f"{trusted_count}/{len(topics)}"
+    )
+    print(
+        f"Topics requiring review: "
+        f"{review_count}/{len(topics)}"
+    )
+    print(
+        f"Valid provenance: "
+        f"{provenance_count}/{len(topics)}"
+    )
+    print(
+        f"JSON saved to: "
+        f"{JSON_OUTPUT}"
+    )
+    print(
+        f"Markdown saved to: "
+        f"{MARKDOWN_OUTPUT}"
+    )
 
 
 if __name__ == "__main__":

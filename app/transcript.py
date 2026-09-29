@@ -1,5 +1,6 @@
 from app.extractor import extract_deposition
 from app.provenance import parse_transcript_line
+from app.speaker_context import resolve_speaker_context
 
 
 TESTIMONY_START_PAGE = 7
@@ -12,8 +13,8 @@ def _build_transcript_with_audit(pdf_path: str):
     Build the structured transcript and collect parser audit information.
 
     The transcript output remains compatible with the existing pipeline.
-    The audit records extraction/parsing anomalies instead of silently
-    discarding them.
+    The audit also records speaker-context resolution without inferring
+    a speaker when the transcript does not provide one.
     """
     pages = extract_deposition(pdf_path)
 
@@ -29,6 +30,11 @@ def _build_transcript_with_audit(pdf_path: str):
         "duplicate_coordinates": [],
         "ordering_issues": [],
         "line_gaps": [],
+        "speaker_context": {
+            "resolved": 0,
+            "unresolved": 0,
+            "records": [],
+        },
     }
 
     seen_coordinates = set()
@@ -59,7 +65,6 @@ def _build_transcript_with_audit(pdf_path: str):
 
             parsed = parse_transcript_line(raw_line)
 
-            # Known formatting/non-testimony lines.
             if parsed["line_number"] is None:
                 stripped = raw_line.strip()
 
@@ -70,7 +75,6 @@ def _build_transcript_with_audit(pdf_path: str):
                 ):
                     audit["ignored_formatting_lines"] += 1
                 else:
-                    # Preserve the unmatched line in the audit.
                     audit["unparsed_lines"].append(
                         {
                             "page": page_number,
@@ -83,7 +87,6 @@ def _build_transcript_with_audit(pdf_path: str):
 
             line_number = parsed["line_number"]
 
-            # Respect the actual end of testimony.
             if (
                 page_number == TESTIMONY_END_PAGE
                 and line_number > TESTIMONY_END_LINE
@@ -92,7 +95,6 @@ def _build_transcript_with_audit(pdf_path: str):
 
             coordinate = (page_number, line_number)
 
-            # Detect duplicate page/line coordinates.
             if coordinate in seen_coordinates:
                 audit["duplicate_coordinates"].append(
                     {
@@ -103,8 +105,9 @@ def _build_transcript_with_audit(pdf_path: str):
             else:
                 seen_coordinates.add(coordinate)
 
-            # Detect ordering problems and line gaps within a page.
-            previous_line = previous_line_by_page.get(page_number)
+            previous_line = previous_line_by_page.get(
+                page_number
+            )
 
             if previous_line is not None:
                 if line_number <= previous_line:
@@ -127,11 +130,30 @@ def _build_transcript_with_audit(pdf_path: str):
 
             previous_line_by_page[page_number] = line_number
 
-            transcript.append(
+            record = {
+                "page": page_number,
+                "line": line_number,
+                "text": parsed["text"],
+            }
+
+            transcript.append(record)
+
+            # Speaker resolution is deliberately separate from
+            # static deposition metadata.
+            speaker_context = resolve_speaker_context(
+                record
+            )
+
+            if speaker_context.status == "RESOLVED":
+                audit["speaker_context"]["resolved"] += 1
+            else:
+                audit["speaker_context"]["unresolved"] += 1
+
+            audit["speaker_context"]["records"].append(
                 {
                     "page": page_number,
                     "line": line_number,
-                    "text": parsed["text"],
+                    **speaker_context.to_dict(),
                 }
             )
 
@@ -154,7 +176,7 @@ def build_transcript(pdf_path: str) -> list[dict]:
 
 def audit_transcript(pdf_path: str) -> dict:
     """
-    Return parser and extraction audit information.
+    Return parser, extraction, and speaker-context audit information.
     """
     _, audit = _build_transcript_with_audit(pdf_path)
     return audit
