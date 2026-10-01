@@ -1,391 +1,1301 @@
 [
   {
-    "topic": "Introduction to Deposition Process",
+    "topic": "Defendant's Opening Questions",
     "start_page": 7,
     "start_line": 11,
     "end_page": 10,
     "end_line": 15,
-    "evidence": "sure that somebody knows kind of how the process works,",
+    "evidence": "A    I have not.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the introduction to the deposition process, including the explanation of the process, expectations for the witness's testimony, and the scope of the expert's testimony.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "2876029374739f03b021b485514fb868de8e6cc91a1eb5e8750b7f139a032198",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "2876029374739f03b021b485514fb868de8e6cc91a1eb5e8750b7f139a032198"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Student Loan Protection Center",
+    "topic": "Ms. Yu's Job and Work with Student Borrower Protection Center",
     "start_page": 10,
     "start_line": 16,
     "end_page": 13,
     "end_line": 21,
-    "evidence": "A    The Student Borrower Protection Center is a",
+    "evidence": "A    I understand.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the role and responsibilities of the speaker as the deputy executive director of the Student Borrower Protection Center, a National 501(c)(3) organization focused on student lending and borrowing issues.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "a7aed4eb7cfcb7ff923e8fd067530066ab017569b67141d372792865c479be81",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "a7aed4eb7cfcb7ff923e8fd067530066ab017569b67141d372792865c479be81"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Student Loan Regulations",
+    "topic": "Advocacy for Student Loan Regulations",
     "start_page": 13,
     "start_line": 22,
     "end_page": 17,
     "end_line": 1,
-    "evidence": "rule -- regulations surrounding, if memory serves, about a",
+    "evidence": "THE WITNESS:  Income-driven repayment rules.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses student loan regulations, including income-driven repayment, borrower defense, and servicer contracts, and the witness's involvement in policy memos, rulemakings, and legislation related to these topics.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "3391f53ac77c780661ef5919f949962bca86ca1399b1298f071ebf75fa209086",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "3391f53ac77c780661ef5919f949962bca86ca1399b1298f071ebf75fa209086"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Student Loan Servicing",
+    "topic": "Student Loan Servicing Regulations",
     "start_page": 17,
     "start_line": 2,
     "end_page": 20,
     "end_line": 6,
-    "evidence": "most recent RFI on their student loan servicing proposals.",
+    "evidence": "THE WITNESS:  I'm sorry.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the commenter's experience and expertise in student loan servicing, including their involvement in reviewing contracts, testifying before Congress, and commenting on proposals, which is directly related to the topic of student loan servicing.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "06f7fce82e9b4779f881e1c7d1ab1525775d3ec94b98f5722ba8a738f91c96d4",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "06f7fce82e9b4779f881e1c7d1ab1525775d3ec94b98f5722ba8a738f91c96d4"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Student Loan Servicer Transfers",
+    "topic": "Changes in Student Loan Servicing and Transfer of Loans",
     "start_page": 20,
     "start_line": 7,
     "end_page": 23,
     "end_line": 11,
-    "evidence": "transfers of loan servicing to various different entities.",
+    "evidence": "THE WITNESS:  Yes, I -- so what I understand --",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the process and risks associated with transferring student loan servicing from one company to another, which is directly supported by the discussion of loan transfers, data loss, and borrower confusion.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "9932b9b69621d9acd88a90cec31d16a15a74621a04fc74eb658b1273122dc5b9",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "9932b9b69621d9acd88a90cec31d16a15a74621a04fc74eb658b1273122dc5b9"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "State Laws Governing Data Transfer in Student Loans",
+    "topic": "California State Student Loan Servicing Law",
     "start_page": 23,
     "start_line": 12,
     "end_page": 26,
     "end_line": 16,
     "evidence": "A    There are a number of state laws that would",
     "semantic_supported": true,
-    "semantic_score": 60,
-    "semantic_reason": "The transcript primarily discusses the specifics of a data transfer in student loans, specifically the PEAKS loans, and the witness's lack of knowledge about regulations violated during the transfer, rather than state laws governing data transfer in student loans in general.",
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "9183e2a7f984ad27462699953d1a31f8f569f6de6f88c01fb35e0a4b5b58b493",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "9183e2a7f984ad27462699953d1a31f8f569f6de6f88c01fb35e0a4b5b58b493"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "ITT Student Loan Debt",
+    "topic": "Analysis of for-profit colleges",
     "start_page": 26,
     "start_line": 17,
     "end_page": 29,
     "end_line": 21,
-    "evidence": "regards to ITT is with -- with the debt that students",
+    "evidence": "THE WITNESS:  I never attended ITT.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the high debt burdens faced by ITT students, who often receive fewer benefits than promised, leading to a critical analysis of the for-profit college's impact on student loan debt.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "650f58519de8067b21a09d544f05550c2e246663a38e5b6a1aea841d3abb15d6",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "650f58519de8067b21a09d544f05550c2e246663a38e5b6a1aea841d3abb15d6"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "ITT Student Outcomes",
+    "topic": "Economic Outcomes of ITT Students",
     "start_page": 29,
     "start_line": 22,
     "end_page": 33,
     "end_line": 1,
-    "evidence": "I -- what I can say is about the economic outcomes of",
+    "evidence": "THE WITNESS:  The -- the -- I'm sorry.",
     "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the economic outcomes and degree quality of ITT students, which is substantially supported by the discussion of retention rates, default rates, and market-wide data about ITT student outcomes.",
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "37e3d228c02cd72e7cc900776c630f3e4f3c31800b54b3c20c3f7cdbee196004",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "37e3d228c02cd72e7cc900776c630f3e4f3c31800b54b3c20c3f7cdbee196004"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "ITT Education Misrepresentation",
+    "topic": "Misrepresentations of ITT Education Benefits",
     "start_page": 33,
     "start_line": 2,
     "end_page": 36,
     "end_line": 6,
-    "evidence": "known for misrepresenting the quality of its education,",
+    "evidence": "THE WITNESS:  So I think -- I mean, I think",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the misrepresentations made by ITT Education about the quality of its education, job placement rates, and salaries, and how these misrepresentations affected students and the Vervent defendants.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "35447372c99bc80978c29e013e3f308a8ed20259fbc1a38ea5b3828e77286f34",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "35447372c99bc80978c29e013e3f308a8ed20259fbc1a38ea5b3828e77286f34"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Misrepresentations in ITT's Financing of Education",
+    "topic": "Misrepresentations in ITT Education Financing",
     "start_page": 36,
     "start_line": 7,
     "end_page": 39,
     "end_line": 11,
-    "evidence": "misrepresentations within ITT's practices.  We also see",
+    "evidence": "THE WITNESS:  Okay.",
     "semantic_supported": true,
     "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses misrepresentations in ITT's financing of education, specifically citing sources such as the Senate HELP Committee Report and the Consumer Financial Protection Bureau's investigation, which highlight issues with the quality of education, accreditation, and job placement rates, rather than focusing on the benefits of an ITT degree.",
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "2eab6df7077fbd5721ad5086c6df98c983a745d75d40c059bac06c488db540d3",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "2eab6df7077fbd5721ad5086c6df98c983a745d75d40c059bac06c488db540d3"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Outliers in ITT Student Salaries",
+    "topic": "Outlier definition for ITT graduates",
     "start_page": 39,
     "start_line": 12,
     "end_page": 42,
     "end_line": 16,
-    "evidence": "People enter with a wide range of salaries.  Many",
+    "evidence": "THE WITNESS:  Yeah, I mean, the problem -- the",
     "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the likelihood of ITT graduates earning unusually high salaries, given the wide range of starting salaries and the fact that many students enter with low or no income, but the discussion is somewhat broad and does not focus exclusively on outliers.",
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "832f9874bf741d6219b363059ce41ea3839f9afb97e020ab52b3d9438631a6c2",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "832f9874bf741d6219b363059ce41ea3839f9afb97e020ab52b3d9438631a6c2"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "Vervent defendants' role in PEAKS loan origination and servicing",
+    "topic": "Vervent defendants' role in PEAKS loans",
     "start_page": 42,
     "start_line": 17,
     "end_page": 45,
     "end_line": 21,
-    "evidence": "Vervent defendants were not involved in the origination of",
+    "evidence": "THE WITNESS:  That was -- that was outside the",
     "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the Vervent defendants' role in facilitating communications between borrowers and payments on PEAKS loans, but does not directly address their involvement in loan origination.",
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "5a9d2b73b9766139d5a3c71925d30ce7270afb567a2b825110188d1d9e0c397d",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "5a9d2b73b9766139d5a3c71925d30ce7270afb567a2b825110188d1d9e0c397d"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "PEAKS Loans Enforcement",
+    "topic": "PEAKS loan enforceability",
     "start_page": 45,
     "start_line": 22,
     "end_page": 49,
     "end_line": 1,
-    "evidence": "PEAKS loans, but I -- I did not -- I don't have that here,",
+    "evidence": "THE WITNESS:  So I'm trying to be careful because",
     "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the existence of an order to stop collections on PEAKS loans, but does not directly address the enforceability of the loans, which is the main subject of the topic",
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "e04e319aeb59e832832e4ff5dd44915043a47c981c3f120f83ec59f5d37668cd",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "e04e319aeb59e832832e4ff5dd44915043a47c981c3f120f83ec59f5d37668cd"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Validity of Loans",
+    "start_page": 49,
+    "start_line": 2,
+    "end_page": 52,
+    "end_line": 6,
+    "evidence": "THE WITNESS:  Yes.",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "24b6f2c0b223bea8196da021c6a9bfac835aa40ce7b92336e1d61a2ed346fe6a",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "24b6f2c0b223bea8196da021c6a9bfac835aa40ce7b92336e1d61a2ed346fe6a"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Loan Servicing and Compliance",
+    "start_page": 52,
+    "start_line": 7,
+    "end_page": 55,
+    "end_line": 11,
+    "evidence": "THE WITNESS:  Whether -- the documents that was",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "47cde438b7bcfe3e6cdd67f6d1232c5a56d9424e10d4b1b3d06c5f65c57c5428",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "47cde438b7bcfe3e6cdd67f6d1232c5a56d9424e10d4b1b3d06c5f65c57c5428"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "PEAKS borrowers final disclosures",
+    "start_page": 55,
+    "start_line": 12,
+    "end_page": 58,
+    "end_line": 16,
+    "evidence": "THE WITNESS:  I -- I'm sorry, I don't understand",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "e265f2c6d9ab2cb66ff3d072210490ecb2d57558753dce5979412293a44f0241",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "e265f2c6d9ab2cb66ff3d072210490ecb2d57558753dce5979412293a44f0241"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Enforceability of Student Loans",
+    "start_page": 58,
+    "start_line": 17,
+    "end_page": 61,
+    "end_line": 21,
+    "evidence": "THE WITNESS:  Yes, they would have to right to",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "0b9e29d3dd9f05837b9b313140ba8c8ab11de8d1cf57c5e968a1ba8a4ab0262d",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "0b9e29d3dd9f05837b9b313140ba8c8ab11de8d1cf57c5e968a1ba8a4ab0262d"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "CFPB settlement implications",
+    "start_page": 61,
+    "start_line": 22,
+    "end_page": 65,
+    "end_line": 1,
+    "evidence": "THE WITNESS:  ITT did participate in the Title IV",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "177e3d9ec3a6054a28f17cf4ddeef7574368607176d18551b2b24808e7176574",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "177e3d9ec3a6054a28f17cf4ddeef7574368607176d18551b2b24808e7176574"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "ITT Technology Abuse Practices",
+    "start_page": 65,
+    "start_line": 2,
+    "end_page": 68,
+    "end_line": 6,
+    "evidence": "THE WITNESS:  So the purpose of the report that I",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "31dcc4c796dea0cd2526ed49afada3aec910a4308a7367c0ef79b449f95d06ad",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "31dcc4c796dea0cd2526ed49afada3aec910a4308a7367c0ef79b449f95d06ad"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "SEC Investigation on Vervent Defendants",
+    "start_page": 68,
+    "start_line": 7,
+    "end_page": 71,
+    "end_line": 11,
+    "evidence": "THE WITNESS:  Sorry.",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "31611cc9fbb1e87a13e08c0da4857274fc63b752bcffc7636240a8882d74ccd3",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "31611cc9fbb1e87a13e08c0da4857274fc63b752bcffc7636240a8882d74ccd3"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Consumer Financial Protection Bureau lawsuits against ITT",
+    "start_page": 71,
+    "start_line": 12,
+    "end_page": 74,
+    "end_line": 16,
+    "evidence": "THE WITNESS:  Yeah, I'm sorry.  I -- I see that",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "8f01b0cf1dc5d348d62b95f5ff94df3fdd8141a474d6bba89d9a8bd19304ee5a",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "8f01b0cf1dc5d348d62b95f5ff94df3fdd8141a474d6bba89d9a8bd19304ee5a"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Vervent defendants and loan servicer investigations",
+    "start_page": 74,
+    "start_line": 17,
+    "end_page": 77,
+    "end_line": 21,
+    "evidence": "THE WITNESS:  I would say that part of the work",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "71c28ea73a7a76ed9fb490f8dc38ba3d3d1f7077938df98c39ccc95e30026145",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "71c28ea73a7a76ed9fb490f8dc38ba3d3d1f7077938df98c39ccc95e30026145"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Investigations into ITT and the PEAKS program",
+    "start_page": 77,
+    "start_line": 22,
+    "end_page": 81,
+    "end_line": 1,
+    "evidence": "THE WITNESS:  I think the mere -- so I think",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "e795759515f6dbe3b31717265154a4a0b2cf0b84f40571be456e1ca12284a9d8",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "e795759515f6dbe3b31717265154a4a0b2cf0b84f40571be456e1ca12284a9d8"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
+    "provenance_valid": true,
+    "validation_reason": "Provenance range and evidence are valid."
+  },
+  {
+    "topic": "Regulations on Loan Servicing",
+    "start_page": 81,
+    "start_line": 2,
+    "end_page": 84,
+    "end_line": 6,
+    "evidence": "THE WITNESS:  There is not a law that",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
+    "supporting_quote": "",
+    "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "03a64534b248781c3b549724dabaa15d2a300c805e0286d8b0d3c567194c125b",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "03a64534b248781c3b549724dabaa15d2a300c805e0286d8b0d3c567194c125b"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
     "topic": "Enforceability of PEAKS Loans",
-    "start_page": 49,
-    "start_line": 2,
-    "end_page": 52,
-    "end_line": 6,
-    "evidence": "raise -- that raise questions about the enforceability and",
-    "semantic_supported": true,
-    "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the existence and enforceability of PEAKS loans, specifically highlighting material defects in loan documentation that raise questions about their validity.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "Vervent's Access to Loan Documents",
-    "start_page": 52,
-    "start_line": 7,
-    "end_page": 55,
-    "end_line": 11,
-    "evidence": "access to those documents.  Vervent did not have those",
-    "semantic_supported": true,
-    "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses Vervent's lack of access to loan documents, specifically the interest rates, and its reliance on a prior servicer's spreadsheet for this information.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "PEAKS Loan Disclosures",
-    "start_page": 55,
-    "start_line": 12,
-    "end_page": 58,
-    "end_line": 16,
-    "evidence": "the final disclosures would they have the right to cancel",
-    "semantic_supported": true,
-    "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the implications of not providing final disclosures to PEAKS borrowers, including the potential invalidation of loans and the right to cancel them, which aligns with the topic 'PEAKS Loan Disclosures'",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "Loan Disclosure Requirements",
-    "start_page": 58,
-    "start_line": 17,
-    "end_page": 61,
-    "end_line": 21,
-    "evidence": "deny that.  But let's say that disclosure was never made,",
-    "semantic_supported": true,
-    "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the enforceability of loans based on disclosure requirements, specifically the implications of a borrower not receiving disclosure, including the potential for loan cancellation.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "ITT Student Loans",
-    "start_page": 61,
-    "start_line": 22,
-    "end_page": 65,
-    "end_line": 1,
-    "evidence": "A    ITT remained in business following these events.",
-    "semantic_supported": false,
-    "semantic_score": 40,
-    "semantic_reason": "The transcript primarily discusses the Department of Education's role in providing loans to ITT students, which does not directly relate to the quality of ITT Educational Services or its student loan practices.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "ITT Educational Services Abusive Practices",
-    "start_page": 65,
-    "start_line": 2,
-    "end_page": 68,
-    "end_line": 6,
-    "evidence": "community for having abusive practices with its students,",
-    "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the impact of ITT Educational Services' abusive practices on students and the federal government's response, with a focus on the PEAKS program and investigations by the Consumer Financial Protection Bureau.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "CFPB and SEC Investigations of Vervent Defendants",
-    "start_page": 68,
-    "start_line": 7,
-    "end_page": 71,
-    "end_line": 11,
-    "evidence": "the Vervent defendants did with respect to those payments?",
-    "semantic_supported": true,
-    "semantic_score": 60,
-    "semantic_reason": "The transcript primarily discusses the SEC investigation of the PEAKS loans, not the CFPB investigation of the Vervent defendants, and the witness's lack of knowledge about the SEC's findings on the Vervent defendants' conduct.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "Consumer Financial Protection Bureau (CFPB) Lawsuit against ITT",
-    "start_page": 71,
-    "start_line": 12,
-    "end_page": 74,
-    "end_line": 16,
-    "evidence": "Consumer Financial Protection Bureau's suit against ITT",
-    "semantic_supported": true,
-    "semantic_score": 90,
-    "semantic_reason": "The transcript primarily discusses the CFPB's 2014 lawsuit against ITT for high-pressure tactics and predatory loans, including the PEAKS loans, and its impact on Vervent's involvement in the PEAKS loan program.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "U.S. Department of Education investigations into loan servicers",
-    "start_page": 74,
-    "start_line": 17,
-    "end_page": 77,
-    "end_line": 21,
-    "evidence": "servicers.  The -- the Department of Education is not a --",
-    "semantic_supported": false,
-    "semantic_score": 40,
-    "semantic_reason": "The transcript primarily discusses the Department of Education's investigations into ITT, not loan servicers in general, and does not mention Vervent or PEAKS loans as the main subject.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "Investigations into ITT and PEAKS program",
-    "start_page": 77,
-    "start_line": 22,
-    "end_page": 81,
-    "end_line": 1,
-    "evidence": "investigations into ITT and the PEAKS program.",
-    "semantic_supported": true,
-    "semantic_score": 70,
-    "semantic_reason": "The transcript primarily discusses the implications of investigations into ITT and the PEAKS program on Vervent's actions, rather than the investigations themselves.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "Servicing and Enforcement of Student Loans",
-    "start_page": 81,
-    "start_line": 2,
-    "end_page": 84,
-    "end_line": 6,
-    "evidence": "that requires a servicer to stop servicing loans because",
-    "semantic_supported": true,
-    "semantic_score": 60,
-    "semantic_reason": "The transcript primarily discusses the enforcement and servicing of student loans, specifically the PEAKS loans, but the topic does not accurately capture the nuances of the discussion, which includes the role of servicers, regulations, and laws regarding the enforcement and servicing of student loans, as well as the settlement between the CFPB and the PEAKS loan trust.",
-    "supporting_quote": "",
-    "supporting_quote_valid": false,
-    "provenance_valid": true,
-    "validation_reason": "Provenance range and evidence are valid."
-  },
-  {
-    "topic": "PEAKS Loans Enforceability",
     "start_page": 84,
     "start_line": 7,
     "end_page": 87,
     "end_line": 11,
-    "evidence": "there was some time when, in your opinion, the PEAKS loans",
-    "semantic_supported": false,
-    "semantic_score": 40,
-    "semantic_reason": "The transcript primarily discusses the enforceability of PEAKS loans, specifically whether they were unenforceable at their origination due to lack of requisite disclosures, but the topic does not accurately capture the main subject of the discussion, which is the impact of the Vervent defendants' actions on the loans' enforceability.",
+    "evidence": "THE WITNESS:  Yeah.",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "6d4219cabc484768cae26fdabc8f117fff2e1893e4eb3f360d47b71336cecbe4",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "6d4219cabc484768cae26fdabc8f117fff2e1893e4eb3f360d47b71336cecbe4"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   },
   {
-    "topic": "PEAKS Loans Servicing Issues",
+    "topic": "PEAKS loans servicing issues",
     "start_page": 87,
     "start_line": 12,
     "end_page": 88,
     "end_line": 13,
-    "evidence": "had any issues with the way that Vervent did the servicing",
-    "semantic_supported": false,
-    "semantic_score": 40,
-    "semantic_reason": "The transcript primarily discusses issues with the PEAKS loans program, but the topic 'PEAKS Loans Servicing Issues' is too narrow and does not accurately capture the main subject of the transcript segment.",
+    "evidence": "THE WITNESS:  Can you -- can you rephrase that",
+    "semantic_supported": true,
+    "semantic_score": 90,
+    "semantic_reason": "short factual reason Topic and evidence passed semantic validation.",
     "supporting_quote": "",
     "supporting_quote_valid": false,
+    "llm_failure": false,
+    "llm_failure_stage": "",
+    "validation_status": "TRUSTED",
+    "validated_fingerprint": "6f1d81d45acb8586b81a2aa3e0300b576e11952c8aaa186364835b98e08784fc",
+    "validation_history": [
+      {
+        "event": "VALIDATION",
+        "status": "TRUSTED",
+        "reason": "Four-level validation completed.",
+        "fingerprint": "6f1d81d45acb8586b81a2aa3e0300b576e11952c8aaa186364835b98e08784fc"
+      }
+    ],
+    "validation_state": {
+      "extraction": {
+        "status": "PASS",
+        "reason": "Transcript extraction audit passed."
+      },
+      "provenance": {
+        "status": "PASS",
+        "reason": "Provenance range and evidence are valid."
+      },
+      "semantic": {
+        "status": "PASS",
+        "reason": "short factual reason Topic and evidence passed semantic validation."
+      },
+      "boundary": {
+        "status": "PASS",
+        "reason": "No semantic boundary mutation was applied; the validated fixed segment was retained."
+      },
+      "final_status": "TRUSTED",
+      "fallback_audit": {
+        "events": [],
+        "final_status": "NO_FALLBACK"
+      }
+    },
     "provenance_valid": true,
     "validation_reason": "Provenance range and evidence are valid."
   }
